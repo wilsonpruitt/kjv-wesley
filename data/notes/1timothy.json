@@ -1,0 +1,695 @@
+{
+  "slug": "1timothy",
+  "name": "1 Timothy",
+  "testament": "NT",
+  "header": "ST. PAUL'S FIRST EPISTLE TO TIMOTHY",
+  "intro": "THE mother of Timothy was a Jewess, but his father was a gentile. He was converted to Christianity very early; and while he was yet but a youth, was taken by St. Paul to assist him in the work of the gospel, chiefly in watering the churches which he had planted. He was therefore properly, as was Titus, an itinerant evangelist, a kind of secondary apostle, whose office was, to regulate all things in the churches to which he was sent; and to inspect and reform whatsoever was amiss either in the bishops, deacons, or people. St. Paul had doubtless largely instructed him in private conversation for the due execution of so weighty an office. Yet to fix things more upon his mind, and to give him an opportunity of having recourse to them afterward, and of communicating them to others, as there might be occasion, as also to leave divine directions in writing, for the use of the church and its ministers in all ages; he sent him this excellent pastoral letter, which contains a great variety of important sentiments for their regulation. Though St. Paul styles him his \"own son in the faith,\" yet he does not appear to have been converted by the apostle; but only to have been exceeding dear to him, who had established him therein; and whom he had diligently and faithfully served, like a son with his father in the gospel. Phil. ii, 22. The epistle contains three parts:\n\nI. The inscription, C.i.1, 2\n\nII. The instruction of Timothy how to behave at Ephesus, wherein,",
+  "notes": [
+    {
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "",
+      "comment": "In general, he gives him an injunction to deliver to them that taught the law in a wrong manner, and confirms at the same time the sum of the gospel as exemplified in himself, 3-20"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "",
+      "comment": "In particular,\n\n1. He prescribes to men, a method of prayer,. C.ii.1-8 To women, good works and modesty, 9-15\n\n2. He recounts the requisites of a bishop,. C.iii.1-7 The duties of deacons, 8-10 of women, 11-13\n\n3. He shows what Timothy should teach 14-C.iv.1-6 What he should avoid, 7-11 What follow after, 12-16 How he should treat men and women, C.v.1, 2 Widows, 3-16 Elders, 17-19 Offenders, 20, 21 Himself, 22, 23 Those he doubts of, 24, 25 Servants, C.vi.1, 2\n\n4. False teachers are reproved, 3-10 Timothy is admonished, quickened, 11, 12 and charged, 13-16 Precepts are prescribed to be enforced on the rich, 17-19 III. The conclusion, 20, 1st TIMOTHY"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Paul an apostle",
+      "comment": "Familiarity is to be set aside where the things of God are concerned. According to the commandment of God - The authoritative appointment of God the Father. Our saviour - So styled in many other places likewise, as being the grand orderer of the whole scheme of our salvation. And Christ our hope - That is, the author, object, and ground, of all our hope."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Grace, mercy, peace",
+      "comment": "St. Paul wishes grace and peace in his epistles to the churches. To Timotheus he adds mercy, the most tender grace towards those who stand in need of it. The experience of this prepares a man to be a minister of the gospel."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Charge some to teach no other doctrine",
+      "comment": "Than I have taught. Let them put nothing in the place of it, add nothing to it."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Neither give heed",
+      "comment": "So as either to teach or regard them. To fables - Fabulous Jewish traditions. And endless genealogies - Nor those delivered in scripture, but the long intricate pedigrees whereby they strove to prove their descent from such or such a person. Which afford questions - Which lead only to useless and endless controversies."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Whereas the end of the commandment",
+      "comment": "of the whole Christian institution. Is love - And this was particularly the end of the commandment which Timotheus was to enforce at Ephesus, ver. 3, 18. The foundation is faith; the end, love. But this can only subsist in an heart purified by faith, and is always attended with a good conscience."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "From which",
+      "comment": "Love and a good conscience. Some are turned aside - An affectation of high and extensive knowledge sets a man at the greatest distance from faith, and all sense of divine things. To vain jangling - And of all vanities, none are more vain than dry, empty disputes on the things of God."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "",
+      "comment": "Understanding neither the very things they speak, nor the subject they speak of."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "",
+      "comment": "We grant the whole Mosaic law is good, answers excellent purposes, if a man use it in a proper manner. Even the ceremonial is good, as it points to Christ; and the moral law is holy, just, and good, on its own nature; and of admirable use both to convince unbelievers, and to guide believers in all holiness."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "The law doth not lie against a righteous man",
+      "comment": "Doth not strike or condemn him. But against the lawless and disobedient - They who despise the authority of the lawgiver violate the first commandment, which is the foundation of the law, and the ground of all obedience. Against the ungodly and sinners - Who break the second commandment, worshipping idols, or not worshipping the true God. The unholy and profane - Who break the third commandment by taking his name in vain."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Manstealers",
+      "comment": "The worst of all thieves, in comparison of whom, highwaymen and housebreakers are innocent. What then are most traders in negroes, procurers of servants for America, and all who list soldiers by lies, tricks, or enticements?"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "According to the glorious gospel",
+      "comment": "Which, far from \"making void,\" does effectually \"establish, the law.\""
+    },
+    {
+      "chapter": 1,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "I thank Christ, who hath enabled me, in that he accounted me faithful, having put me into the ministry",
+      "comment": "The meaning is, I thank him for putting me into the ministry, and enabling me to be faithful therein."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "A blasphemer",
+      "comment": "Of Christ. A persecutor - Of his church. A reviler - Of his doctrine and people. But I obtained mercy - He does not say, because I was unconditionally elected; but because I did it in ignorance. Not that his ignorance took away his sin; but it left him capable of mercy; which he would hardly have been, had he acted thus contrary to his own conviction."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "And the grace",
+      "comment": "Whereby I obtained mercy. Was exceeding abundant with faith - Opposite to my preceding unbelief. And love - Opposite to my blasphemy, persecution, and oppression."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "This is a faithful saying",
+      "comment": "A most solemn preface. And worthy of all acceptation - Well deserving to be accepted, received, embraced, with all the faculties of our whole soul. That Christ - Promised. Jesus - Exhibited. Came into the world to save sinners - All sinners, without exception."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "",
+      "comment": "For this cause God showed me mercy, that all his longsuffering might be shown, and that none might hereafter despair."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "The King of eternity",
+      "comment": "A phrase frequent with the Hebrews. How unspeakably sweet is the thought of eternity to believers!"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "This charge I commit to thee",
+      "comment": "That thou mayest deliver it to the church. According to the prophecies concerning thee - Uttered when thou wast received as an evangelist, chap. iv, 14; probably by many persons, chap. vi, 12; that, being encouraged by them, thou mightest war the good warfare."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Holding fast faith",
+      "comment": "Which is as a most precious liquor. And a good conscience - Which is as a clean glass. Which - Namely, a good conscience. Some having thrust away - It goes away unwillingly it always says, \"Do not hurt me.\" And they who retain this do not make shipwreck of their faith. Indeed, none can make shipwreck of faith who never had it. These, therefore, were once true believers: yet they fell not only foully, but finally; for ships once wrecked cannot be afterwards saved."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Whom",
+      "comment": "Though absent. I have delivered to Satan, that they may learn not to blaspheme - That by what they suffer they may be in some measure restrained, if they will not repent."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "I exhort therefore",
+      "comment": "Seeing God is so gracious. In this chapter he gives directions,\n\n1. With regard to public prayers\n\n2. With regard to doctrine. Supplication is here the imploring help in time of need: prayer is any kind of offering up our desires to God. But true prayer is the vehemency of holy zeal, the ardour of divine love, arising from a calm, undisturbed soul, moved upon by the Spirit of God. Intercession is prayer for others. We may likewise give thanks for all men, in the full sense of the word, for that God \"willeth all men to be saved,\" and Christ is the Mediator of all."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "For all that are in authority",
+      "comment": "Seeing even the lowest country magistrates frequently do much good or much harm. God supports the power of magistracy for the sake of his own people, when, in the present state of men, it could not otherwise be kept up in any nation whatever. Godliness - Inward religion; the true worship of God. Honesty - A comprehensive word taking in the whole duty we owe to our neighbour."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "For this",
+      "comment": "That we pray for all men. Do you ask, \"Why are not more converted?\" We do not pray enough. Is acceptable in the sight of God our saviour - Who has actually saved us that believe, and willeth all men to be saved. It is strange that any whom he has actually saved should doubt the universality of his grace!"
+    },
+    {
+      "chapter": 2,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Who willeth seriously all men",
+      "comment": "Not a part only, much less the smallest part. To be saved - Eternally. This is treated of, ver. 5, 6. And, in order thereto, to come - They are not compelled. To the knowledge of the truth - Which brings salvation. This is treated of, ver. 6, 7."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "For",
+      "comment": "The fourth verse is proved by the fifth; the first, by the fourth. There is one God - And they who have not him, through the one Mediator, have no God. One mediator also - We could not rejoice that there is a God, were there not a mediator also; one who stands between God and men, to reconcile man to God, and to transact the whole affair of our salvation. This excludes all other mediators, as saints and angels, whom the Papists set up and idolatrously worship as such: just as the heathens of old set up many mediators, to pacify their superior gods. The man - Therefore all men are to apply to this mediator, \"who gave himself for all.\""
+    },
+    {
+      "chapter": 2,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Who gave himself a ransom for all",
+      "comment": "Such a ransom, the word signifies, wherein a like or equal is given; as an eye for an eye, or life for life: and this ransom, from the dignity of the person redeeming, was more than equivalent to all mankind. To be testified of in due season - Literally, in his own seasons; those chosen by his own wisdom."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "I will",
+      "comment": "A word strongly expressing his apostolical authority. Therefore - This particle connects the eighth with the first verse. That men pray in every place - Public and private. Wherever men are, there prayer should be. Lifting up holy hands - Pure from all known sin. Without wrath - In any kind, against any creature. And every temper or motion of our soul that is not according to love is wrath. And doubting - Which is contrary to faith. And wrath, or unholy actions, or want of faith in him we call upon, are the three grand hindrances of God's hearing our petitions. Christianity consists of faith and love, embracing truth and grace: therefore the sum of our wishes should be, to pray, and live, and die, without any wrath or doubt."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "With sobriety",
+      "comment": "Which, in St. Paul's sense, is the virtue which governs our whole life according to true wisdom. Not with curled hair, not with gold - Worn by way of ornament. Not with pearls - Jewels of any kind: a part is put for the whole. Not with costly raiment - These four are expressly forbidden by name to all women (here is no exception) professing godliness, and no art of man can reconcile with the Christian profession the wilful violation of an express command."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "To usurp authority over the man",
+      "comment": "By public teaching."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "First",
+      "comment": "So that woman was originally the inferior."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "And Adam was not deceived",
+      "comment": "The serpent deceived Eve: Eve did not deceive Adam, but persuaded him. \"Thou hast hearkened unto the voice of thy wife,\" Gen. iii, 17. The preceding verse showed why a woman should not \"usurp authority over the man.\" this shows why she ought not \"to teach.\" She is more easily deceived, and more easily deceives. The woman being deceived transgressed - \"The serpent deceived\" her, Gen. iii, 13, and she transgressed."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Yet she",
+      "comment": "That is, women in general, who were all involved with Eve in the sentence pronounced, Gen. iii, 16. Shall be saved in childbearing - Carried safe through the pain and danger which that sentence entails upon them for the transgression; yea, and finally saved, if they continue in loving faith and holy wisdom."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "He desireth a good work",
+      "comment": "An excellent, but labourious, employment."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Therefore",
+      "comment": "That he may be capable of it. A bishop - Or pastor of a congregation. Must be blameless - Without fault or just suspicion. The husband of one wife - This neither means that a bishop must be married, nor that he may not marry a second wife; which it is just as lawful for him to do as to marry a first, and may in some cases be his bounden duty. But whereas polygamy and divorce on slight occasions were common both among the Jews and heathens, it teaches us that ministers, of all others, ought to stand clear of those sins. Vigilant, prudent - Lively and zealous, yet calm and wise. Of good behaviour - Naturally flowing from that vigilance and prudence."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Having his children in subjection with all seriousness",
+      "comment": "For levity undermines all domestic authority; and this direction, by a parity of reason, belongs to all parents."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Lest being puffed up",
+      "comment": "With this new honour, or with the applause which frequently follows it. He fall into the condemnation of the devil - The same into which the devil fell."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "He ought also to have a good report",
+      "comment": "To have had a fair character in time past. From them that are without - That are not Christians. Lest he fall into reproach - By their rehearsing his former life, which might discourage and prove a snare to him."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Likewise the deacons must be serious",
+      "comment": "Men of a grave, decent, venerable behaviour. But where are presbyters? Were this order essentially distinct from that of bishops, could the apostle have passed it over in silence? Not desirous of filthy gain - With what abhorrence does he everywhere speak of this! All that is gained (above food and raiment) by ministering in holy things is filthy gain indeed; far more filthy than what is honestly gained by raking kennels, or emptying common sewers."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Holding fast the faith in a pure conscience",
+      "comment": "Steadfast in faith, holy in heart and life."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Let these be proved first",
+      "comment": "Let a trial be made how they believe. Then let them minister - Let them be fixed in that office."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Faithful in all things",
+      "comment": "Both to God, their husbands, and the poor."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "They purchase a good degree",
+      "comment": "Or step, toward some higher office. And much boldness - From the testimony of a good conscience."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "That thou mayest know how to behave",
+      "comment": "This is the scope of the epistle. In the house of God - Who is the master of the family. Which is - As if he had said, By the house of God, I mean the church."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "The mystery of godliness",
+      "comment": "Afterwards specified in six articles, which sum up the whole economy of Christ upon earth. Is the pillar and ground - The foundation and support of all the truth taught in his church. God was manifest in the flesh - In the form of a servant, the fashion of a man, for three and thirty years. Justified by the Spirit - Publicly \"declared to be the Son of God,\" by his resurrection from the dead. Seen - Chiefly after his resurrection. By angels - Both good and bad. Preached among the gentiles - This elegantly follows. The angels were the least, the gentiles the farthest, removed from him; and the foundation both of this preaching and of their faith was laid before his assumption. Was believed on in the world - Opposed to heaven, into which he was taken up. The first point is, He was manifested in the flesh; the last, He was taken up into glory."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "But the Spirit saith",
+      "comment": "By St. Paul himself to the Thessalonians, and probably by other contemporary prophets. Expressly - As concerning a thing of great moment, and soon to be fulfilled. That in the latter times - These extend from our Lord's ascension till his coming to judgment. Some - Yea, many, and by degrees the far greater part. Will depart from the faith - The doctrine once delivered to the saints. Giving heed to seducing spirits - Who inspire false prophets."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "",
+      "comment": "These will depart from the faith, by the hypocrisy of them that speak lies, having their own consciences as senseless and unfeeling as flesh that is seared with an hot iron."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Forbidding priests, monks, and nuns to marry, and commanding all men to abstain from such and such meats at such and such times. Which God hath created to be received by them that know the truth",
+      "comment": "That all meats are now clean. With thanksgiving - Which supposes a pure conscience."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "It is sanctified by the word of God",
+      "comment": "Creating all, and giving it to man for food. And by prayer - The children of God are to pray for the sanctification of all the creatures which they use. And not only the Christians, but even the Jews, yea, the very heathens used to consecrate their table by prayer."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Like those who were to contend in the Grecian games, exercise thyself unto godliness",
+      "comment": "Train thyself up in holiness of heart and life, with the utmost labour, vigour, and diligence."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Bodily exercise profiteth a little",
+      "comment": "Increases the health and strength of the body."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Therefore",
+      "comment": "Animated by this promise. We both labour and suffer reproach - We regard neither pleasure, ease, nor honour. Because we trust - For this very thing the world will hate us. In the living God - Who will give us the life he has promised. Who is the saviour of all men - Preserving them in this life, and willing to save them eternally. But especially - In a more eminent manner. Of them that believe - And so are saved everlastingly."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Let no one have reason to despise thee for thy youth. To prevent this, Be a pattern in word",
+      "comment": "Public and private. In spirit - In your whole temper. In faith - When this is placed in the midst of several other Christian graces, it generally means a particular branch of it; fidelity or faithfulness."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Give thyself to reading",
+      "comment": "Both publicly and privately. Enthusiasts, observe this! Expect no end without the means."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Neglect not",
+      "comment": "They neglect it who do not exercise it to the full. The gift - Of feeding the flock, of power, and love, and sobriety. Which was given thee by prophecy - By immediate direction from God. By the laying on of my hands - 2 Tim. i, 6; while the elders joined also in the solemnity. This presbytery probably consisted of some others, together with Paul and Silas."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Meditate",
+      "comment": "The Bible makes no distinction between this and to contemplate, whatever others do. True meditation is no other than faith, hope, love, joy, melted down together, as it were, by the fire of God's Holy Spirit; and offered up to God in secret. He that is wholly in these, will be little in worldly company, in other studies, in collecting books, medals, or butterflies: wherein many pastors drone away so considerable a part of their lives."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Continue in them",
+      "comment": "In all the preceding advices."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Rebuke not",
+      "comment": "Considering your own youth, with such a severity as would otherwise be proper."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "honour",
+      "comment": "That is, maintain out of the public stock."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Let these learn to requite their parents",
+      "comment": "For all their former care, trouble, and expense."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Widows indeed",
+      "comment": "Who have no near relations to provide for them; and who are wholly devoted to God. Desolate - Having neither children, nor grandchildren to relieve her."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "She that liveth in pleasure",
+      "comment": "Delicately, voluptuously, in elegant, regular sensuality, though not in the use of any such pleasures as are unlawful in themselves."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "That they",
+      "comment": "That is, the widows."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "If any provide not",
+      "comment": "Food and raiment. For his own - Mother and grandmother, being desolate widows. He hath - Virtually. Denied the faith - Which does not destroy, but perfect, natural duties. What has this to do with heaping up money for our children, for which it is often so impertinently alleged? But all men have their reasons for laying up money. One will go to hell for fear of want; another acts like a heathen, lest he should be worse than an infidel."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Let not a widow be chosen",
+      "comment": "Into the number of deaconesses, who attended sick women or travelling preachers. Under threescore - Afterwards they were admitted at forty, if they were eminent for holiness. Having been the wife of one husband - That is, having lived in lawful marriage, whether with one or more persons successively."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "If she hath washed the feet of the saints",
+      "comment": "Has been ready to do the meanest offices for them."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Refuse",
+      "comment": "Do not choose. For when they are waxed wanton against Christ - To whose more immediate service they had addicted themselves. They want to marry - And not with a single eye to the glory of God; and so withdraw themselves from that entire service of the church to which they were before engaged."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "They have rejected their first faith",
+      "comment": "Have deserted their trust in God, and have acted contrary to the first conviction, namely, that wholly to devote themselves to his service was the most excellent way. When we first receive power to believe, does not the Spirit of God generally point out what are the most excellent things; and at the same time, give us an holy resolution to walk in the highest degree of Christian severity? And how unwise are we ever to sink into anything below it!"
+    },
+    {
+      "chapter": 5,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "I counsel therefore the younger women",
+      "comment": "Widows or virgins, such as are not disposed to live single. To marry, to bear children, to guide the family - Then will they have sufficient employment of their own. And give no occasion of reproach to the adversary - Whether Jew or heathen."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Some",
+      "comment": "Widows. Have turned aside after Satan - Who has drawn them from Christ."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Let the elders that rule well",
+      "comment": "Who approve themselves faithful stewards of all that is committed to their charge. Be counted worthy of double honour - A more abundant provision, seeing that such will employ it all to the glory of God. As it was the most labourious and disinterested men who were put into these offices, so whatever any one had to bestow, in his life or death, was generally lodged in their hands for the poor. By this means the churchmen became very rich in after ages, but as the design of the donors was something else, there is the highest reason why it should be disposed of according to their pious intent. Especially those - Of them. Who labour - Diligently and painfully. In the word and teaching - In teaching the word."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "",
+      "comment": "Deut. xxv, 4"
+    },
+    {
+      "chapter": 5,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Against an elder",
+      "comment": "Or presbyter. Do not even receive an accusation, unless by two or three witnesses - By the Mosaic law, a private person might be cited (though not condemned) on the testimony of one witness; but St. Paul forbids an elder to be even cited on such evidence, his reputation being of more importance than that of others."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Those",
+      "comment": "Elders. That sin - Scandalously, and are duly convicted. Rebuke before all - The church."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "I charge thee before God",
+      "comment": "Referring to the last judgment, in which we shall stand before God and Christ, with his elect, that is, holy, angels, who are the witnesses of our conversation. The apostle looks through his own labours, and even through time itself, and seems to stand as one already in eternity. That thou observe these things without prejudging - Passing no sentence till the cause is fully heard. Or partiality - For or against any one."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Lay hands suddenly on no man",
+      "comment": "That is, appoint no man to church offices without full trial and examination; else thou wilt be accessary to, and accountable for, his misbehaviour in his office. Keep thy self pure - From the blood of all men."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Some men's sins are manifest beforehand",
+      "comment": "Before any strict inquiry be made. Going before to judgment - So that you may immediately judge them unworthy of any spiritual office. And some they - Their sins. Follow after - More covertly."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "They that are otherwise",
+      "comment": "Not so manifest. Cannot be long hid - From thy knowledge. On this account, also, be not hasty in laying on of hands."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Let servants under the yoke",
+      "comment": "Of heathen masters. Account them worthy of all honour - All the honour due from a servant to a master. Lest the name of God and his doctrine be blasphemed - As it surely will, if they do otherwise."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Let them not despise them",
+      "comment": "Pay them the less honour or obedience. Because they are brethren -- and in that respect on a level with them. They that live in a religious community know the danger of this; and that greater grace is requisite to bear with the faults of a brother, than of an infidel, or man of the world. But rather do them service - Serve them so much the more diligently. Because they are joint partakers of the great benefit - Salvation. These things - Paul, the aged, gives young Timotheus a charge to dwell upon practical holiness. Less experienced teachers are apt to neglect the superstructure, whilst they lay the foundation; but of so great importance did St. Paul see it to enforce obedience to Christ, as well as to preach faith in his blood, that, after strongly urging the life of faith on professors, he even adds another charge for the strict observance of it."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "If any teach otherwise",
+      "comment": "Than strict practical holiness in all Its branches. And consent not to sound words - Literally, healthful words; words that have no taint of falsehood, or tendency to encourage sin. And the doctrine which is after godliness - Exquisitely contrived to answer all the ends, and secure every interest, of real piety."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "He is puffed up",
+      "comment": "Which is the cause of his not consenting to the doctrine which is after inward, practical religion. By this mark we may know them. Knowing nothing - As he ought to know. Sick of questions - Doatingly fond of dispute; an evil, but common, disease; especially where practice is forgotten. Such, indeed, contend earnestly for singular phrases, and favourite points of their own. Everything else, however, like the preaching of Christ and his apostles, is all \"law,\" and \"bondage,\" and \"carnal reasoning.\" Strifes of words - Merely verbal controversies. Whereof cometh envy - Of the gifts and success of others. Contention - For the preeminence. Such disputants seldom like the prosperity of others, or to be less esteemed themselves. Evil surmisings - It not being their way to think well of those that differ from themselves in opinion."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Supposing that gain is godliness",
+      "comment": "Thinking the best religion is the getting of money: a far more common case than is usually supposed."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "But godliness with content",
+      "comment": "The inseparable companion of true, vital religion. Is great gain - Brings unspeakable profit in time, as well as eternity."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Neither can we carry anything out",
+      "comment": "To what purpose, then, do we heap together so many things? O, give me one thing, - a safe and ready passage to my own country!"
+    },
+    {
+      "chapter": 6,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Covering",
+      "comment": "That is, raiment and an house to cover us. This is all that a Christian needs, and all that his religion allows him to desire."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "They that desire to be rich",
+      "comment": "To have more than these; for then they would be so far rich; and the very desire banishes content, and exposes them to ruin. Fall-plunge - A sad gradation! Into temptation - Miserable food for the soul! And a snare - Or trap. Dreadful \"covering!\" And into many foolish and hurtful desires - Which are sown and fed by having more than we need. Then farewell all hope of content! What then remains, but destruction for the body, and perdition for the soul?"
+    },
+    {
+      "chapter": 6,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Love of money",
+      "comment": "Commonly called \"prudent care\" of what a man has. Is the root - The parent of all manner of evils. Which some coveting have erred - Literally, missed the mark. They aimed not at faith, but at something else. And pierced themselves with many sorrows - From a guilty conscience, tormenting passions, desires contrary to reason, religion, and one another. How cruel are worldly men to themselves!"
+    },
+    {
+      "chapter": 6,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "But thou, O man of God",
+      "comment": "Whatever all the world else do. A man of God is either a prophet, a messenger of God, or a man devoted to God; a man of another world. Flee - As from a serpent, instead of coveting these things. Follow after righteousness - The whole image of God; though sometimes this word is used, not in the general, but in the particular, acceptation, meaning only that single branch of it which is termed justice. Faith - Which is also taken here in the general and full sense; namely, a divine, supernatural sight of God, chiefly in respect of his mercy in Christ. This faith is the foundation of righteousness, the support of godliness, the root of every grace of the Spirit. Love - This St. Paul intermixes with everything that is good: he, as it were, penetrates whatever he treats of with love, the glorious spring of all inward and outward holiness."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Fight the good fight of faith",
+      "comment": "Not about words. Lay hold on eternal life - Just before thee. Thou hast confessed the good confession - Perhaps at his baptism: so likewise, ver. 13; but with a remarkable variation of the expression. Thou hast confessed the good confession before many witnesses - To which they all assented. He witnessed the good confession; but Pilate did not assent to it."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "I charge thee before God, who quickeneth all things",
+      "comment": "Who hath quickened thee, and will quicken thee at the great day."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Which",
+      "comment": "Appearing. In his own times - The power, the knowledge, and the Revelation of which, remain in his eternal mind."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Who only hath underived, independent immortality. Dwelling in light unapproachable",
+      "comment": "To the highest angel. Whom no man hath seen, or can see - With bodily eyes. Yet \"we shall see him as he is.\""
+    },
+    {
+      "chapter": 6,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "What follows seems to be a kind of a postscript. Charge the rich in this world",
+      "comment": "Rich in such beggarly riches as this world affords. Not to be highminded - O who regards this! Not to think better of themselves for their money, or anything it can purchase. Neither to trust in uncertain riches - Which they may lose in an hour; either for happiness or defense. But in the living God - All the rest is dead clay. Who giveth us - As it were holding them out to us in his hand. All things - Which we have. Richly - Freely, abundantly. To enjoy - As his gift, in him and for him. When we use them thus, we do indeed enjoy all things. Where else is there any notice taken of the rich, in all the apostolic writings, save to denounce woes and vengeance upon them?"
+    },
+    {
+      "chapter": 6,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "To do good",
+      "comment": "To make this their daily employ, that they may be rich - May abound in all good works. Ready to distribute - Singly to particular persons. Willing to communicate - To join in all public works of charity."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Treasuring up for themselves a good foundation",
+      "comment": "Of an abundant reward, by the free mercy of God. That they may lay hold on eternal life - This cannot be done by alms-deeds; yet they \"come up for a memorial before God,\" Acts x, 4. And the lack even of this may be the cause why God will withhold grace and salvation from us."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Keep that which is committed to thy trust",
+      "comment": "The charge I have given thee, chap. i, 18. Avoid profane empty babblings - How weary of controversy was this acute disputant! And knowledge falsely so called - Most of the ancient heretics were great pretenders to knowledge."
+    }
+  ]
+}

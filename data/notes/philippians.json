@@ -1,0 +1,632 @@
+{
+  "slug": "philippians",
+  "name": "Philippians",
+  "testament": "NT",
+  "header": "ST. PAUL'S EPISTLE TO THE PHILIPPIANS",
+  "intro": "PHILIPPI was so called from Philip, king of Macedonia, who much enlarged and beautified it. Afterwards it became a Roman colony, and the chief city of that part of Macedonia. Hither St. Paul was sent by a vision to preach and here, not long after his coming, he was shamefully entreated. Nevertheless many were converted by him, during the short time of his abode there; by whose liberality he was more assisted than by any other church of his planting. And they had now sent large assistance to him by Epaphroditus; by whom he returns them this epistle. It contains six parts:\n\nI. The inscription, Chap. i. 1, 2\n\nII. Thanksgiving and prayers for them, 3-11\n\nIII.He relates his present state and good hope: 12-24 Whence he exhorts them,",
+  "notes": [
+    {
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "",
+      "comment": "While he remains with them to walk worthy of the gospel, 25- 30 ii. 1-16"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "",
+      "comment": "Though he should be killed, to rejoice with him, 17, 18 And promises,\n\n1. To certify them of all things by Timotheus, 19-24\n\n2. In the mean time to send Epaphroditus, 25-30 IV. He exhorts them to rejoice, iii. 1-3 admonishing them to beware of false teachers, and to imitate the true, 2-21 commending concord, iv. 1-3 He again exhorts them to joy and meekness 4-7 and to whatsoever things are excellent, 8-9 V. He accepts of their liberality, 10-20 VI. The conclusion, 21-23 PHILIPPIANS"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Servants",
+      "comment": "St. Paul, writing familiarly to the Philippians, does not style himself an apostle. And under the common title of servants, he tenderly and modestly joins with himself his son Timotheus, who had come to Philippi not long after St. Paul had received him, Acts xvi, 3, 12. To all the saints - The apostolic epistles were sent more directly to the churches, than to the pastors of them. With the bishops and deacons - The former properly took care of the internal state, the latter, of the externals, of the church, 1 Tim. iii, 2-8; although these were not wholly confined to the one, neither those to the other. The word bishops here includes all the presbyters at Philippi, as well as the ruling presbyters: the names bishop and presbyter, or elder, being promiscuously used in the first ages."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "With joy",
+      "comment": "After the epistle to the Ephesians, wherein love reigns, follows this, wherein there is perpetual mention of joy. \"The fruit of the Spirit is love, joy.\" And joy peculiarly enlivens prayer. The sum of the whole epistle is, I rejoice. Rejoice ye."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "",
+      "comment": "The sense is, I thank God for your fellowship with us in all the blessings of the gospel, which I have done from the first day of your receiving it until now."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Being persuaded",
+      "comment": "The grounds of which persuasion are set down in the following verse. That he who hath begun a good work in you, will perfect it until the day of Christ - That he who having justified, hath begun to sanctify you, will carry on this work, till it issue in glory."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "As it is right for me to think this of you all",
+      "comment": "Why? He does not say, \"Because of an eternal decree;\" or, \"Because a saint must persevere;\" but, because I have you in my heart, who were all partakers of my grace - That is, because ye were all (for which I have you in my heart, I bear you the most grateful and tender affection) partakers of my grace - That is, sharers in the afflictions which God vouchsafed me as a grace or favour, ver. 29, 30; both in my bonds, and when I was called forth to answer for myself, and to confirm the gospel. It is not improbable that, after they had endured that great trial of affliction, God had sealed them unto full victory, of which the apostle had a prophetic sight."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "I long for you with the bowels of Jesus Christ",
+      "comment": "In Paul, not Paul lives, but Jesus Christ. Therefore he longs for them with the bowels, the tenderness, not of Paul, but of Jesus Christ."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "And this I pray, that your love",
+      "comment": "Which they had already shown. May abound yet more and more - The fire which burned in the apostle never says, It is enough. In knowledge and in all spiritual sense - Which is the ground of all spiritual knowledge. We must be inwardly sensible of divine peace, joy, love; otherwise, we cannot know what they are."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "That ye may try",
+      "comment": "By that spiritual sense. The things that are excellent - Not only good, but the very best; the superior excellence of which is hardly discerned, but by the adult Christian. That ye may be inwardly sincere - Having a single eye to the very best things, and a pure heart. And outwardly without offense - Holy, unblamable in all things."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Being filled with the fruits of righteousness, which are through Jesus Christ, to the glory and praise of God",
+      "comment": "Here are three properties of that sincerity which is acceptable to God:\n\n1. It must bear fruits, the fruits of righteousness, all inward and outward holiness, all good tempers, words, and works; and that so abundantly, that we may be filled with them.\n\n2. The branch and the fruits must derive both their virtue and their very being from the all - supporting, all - supplying root, Jesus Christ.\n\n3. As all these flow from the grace of Christ, so they must issue in the glory and praise of God."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "The things concerning me",
+      "comment": "My sufferings. Have fallen out rather to the furtherance, than, as you feared, the hindrance, of the gospel."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "My bonds in Christ",
+      "comment": "Endured for his sake. Have been made manifest - Much taken notice of. In the whole palace - Of the Roman emperor."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "And many",
+      "comment": "Who were before afraid. Trusting in the Lord through my bonds - When they observed my constancy, and safety not withstanding, are more bold."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 15,
+      "verse_end": 16,
+      "lemma": "Some indeed preach Christ out of contention",
+      "comment": "Envying St. Paul's success, and striving to hurt him thereby. Not sincerely - From a real desire to glorify God. But supposing - Though they were disappointed. To add more affliction to my bonds - By enraging the Roman against me."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "But the others out of love",
+      "comment": "To Christ and me. Knowing - Not barely, supposing. That I am set - Literally, I lie; yet still going forward in his work. He remained at Rome as an ambassador in a place where he is employed on an important embassy."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "In pretense",
+      "comment": "Under colour of propagating the gospel. In truth - With a real design so to do."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "This shall turn to my salvation",
+      "comment": "Shall procure me an higher degree of glory. Through your prayer - Obtaining for me a larger supply of the Spirit."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "As always",
+      "comment": "Since my call to the apostleship. In my body - however it may be disposed of. How that might be, he did not yet know. For the apostles did not know all things; particularly in things pertaining to themselves, they had room to exercise faith and patience."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "To me to live is Christ",
+      "comment": "To know, to love, to follow Christ, is my life, my glory, my joy."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Here he begins to treat of the former clause of the preceding verse. Of the latter he treats, chap. ii, 17. But if I am to live is the flesh, this is the fruit of my labour",
+      "comment": "This is the fruit of my living longer, that I can labour more. Glorious labour! desirable fruit! in this view, long life is indeed a blessing. And what I should choose I know not - That is, if it were left to my choice."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "To depart",
+      "comment": "Out of bonds, flesh, the world. And to be with Christ - In a nearer and fuller union. It is better to depart; it is far better to be with Christ."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "I know",
+      "comment": "By a prophetic notice given him while he was writing this. That I shall continue some time longer with you - And doubtless he did see them after this confinement."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Only",
+      "comment": "Be careful for this, and nothing else. Stand fast in one spirit - With the most perfect unanimity. Striving together - With united strength and endeavours. For the faith of the gospel - For all the blessings revealed and promised therein."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Which",
+      "comment": "Namely, their being adversaries to the word of God, and to you the messengers of God. Is an evident token - That they are in the high road to perdition; and you, in the way of salvation."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "For to you it is given",
+      "comment": "As a special token of God's love, and of your being in the way of salvation."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "Having the same kind of conflict with your adversaries, which ye saw in me",
+      "comment": "When I was with you, Acts xvi, 12, 19, &c."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "If there be therefore any consolation",
+      "comment": "In the grace of Christ. If any comfort - In the love of God. If any fellowship of the Holy Ghost; if any bowels of mercies - Resulting therefrom; any tender affection towards each other."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Think the same thing",
+      "comment": "Seeing Christ is your common Head. Having the same love - To God, your common Father. Being of one soul - Animated with the same affections and tempers, as ye have all drank ill to one spirit. Of one mind - Tenderly rejoicing and grieving together."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Do nothing through contention",
+      "comment": "Which is inconsistent with your thinking the same thing. Or vainglory - Desire of praise, which is directly opposite to the love of God. But esteem each the others better than themselves - (For every one knows more evil of himself than he can of another:) Which is a glorious fruit of the Spirit, and an admirable help to your continuing \"of one soul.\""
+    },
+    {
+      "chapter": 2,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Aim not every one at his own things",
+      "comment": "Only. If so, ye have not bowels of mercies."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Who being in the essential form",
+      "comment": "The incommunicable nature. Of God - From eternity, as he was afterward in the form of man; real God, as real man. Counted it no act of robbery - That is the precise meaning of the words, - no invasion of another's prerogative, but his own strict and unquestionable right. To be equal with God - the word here translated equal, occurs in the adjective form five or six times in the New Testament, Matt. xx, 12; Luke vi, 34; John v, 18; Acts xi, 17; Rev. xxi, 16. In all which places it expresses not a bare resemblance, but a real and proper equalitg. It here implies both the fulness and the supreme height of the Godhead; to which are opposed, he emptied and he humbled himself."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Yet",
+      "comment": "He was so far from tenaciously insisting upon, that he willingly relinquished, his claim. He was content to forego the glories of the Creator, and to appear in the form of a creature; nay, to be made in the likeness of the fallen creatures; and not only to share the disgrace, but to suffer the punishment, due to the meanest and vilest among them all. He emptied himself - Of that divine fulness, which he received again at his exaltation. Though he remained full, John i, 14, yet he appeared as if he had been empty; for he veiled his fulness from the sight of men and angels. Yea, he not only veiled, but, in some sense, renounced, the glory which he had before the world began. Taking - And by that very act emptying himself. The form of a servant - The form, the likeness, the fashion, though not exactly the same, are yet nearly related to each other. The form expresses something absolute; the likeness refers to other things of the same kind; the fashion respects what appears to sight and sense. Being made in the likeness of men - A real man, like other men. Hereby he took the form of a servant."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "And being found in fashion as a man",
+      "comment": "A common man, without any peculiar excellence or comeliness. He humbled himself - To a still greater depth. Becoming obedient - To God, though equal with him. Even unto death - The greatest instance both of humiliation and obedience. Yea, the death of the cross - Inflicted on few but servants or slaves."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Wherefore",
+      "comment": "Because of his voluntary humiliation and obedience. He humbled himself; but God hath exalted him - So recompensing his humiliation. And hath given him - So recompensing his emptying himself. A name which is above every name - Dignity and majesty superior to every creature."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "That every knee",
+      "comment": "That divine honour might be paid in every possible manner by every creature. Might bow - Either with love or trembling. Of those in heaven, earth, under the earth - That is, through the whole universe."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "And every tongue",
+      "comment": "Even of his enemies. Confess that Jesus Christ is Lord - Jehovah; not now \"in the form of a servant,\" but enthroned in the glory of God the Father."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Wherefore",
+      "comment": "Having proposed Christ's example, he exhorts them to secure the salvation which Christ has purchased. As ye have always - Hitherto. Obeyed - Both God, and me his minister. Now in my absence - When ye have not me to instruct, assist, and direct you. Work out your own salvation - Herein let every man aim at his own things. With fear and trembling - With the utmost care and diligence."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "For it is God",
+      "comment": "God alone, who is with you, though I am not. That worketh in you according to his good pleasure - Not for any merit of yours. Yet his influences are not to supersede, but to encourage, our own efforts. Work out your own salvation - Here is our duty. For it is God that worketh in you - Here is our encouragement. And O, what a glorious encouragement, to have the arm of Omnipotence stretched out for our support and our succor!"
+    },
+    {
+      "chapter": 2,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Do all things",
+      "comment": "Not only without contention, ver. 3, but even without murmurings and disputings - Which are real, though smaller, hindrances of love."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "That ye may be blameless",
+      "comment": "Before men. And simple - Before God, aiming at him alone. As the sons of God - The God of love; acting up to your high character. Unrebukable in the midst of a crooked - Guileful, serpentine, and perverse generation - Such as the bulk of mankind always were. Crooked - By a corrupt nature, and yet more perverse by custom and practice."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Here he begins to treat of the latter clause of chap. i, 22. Yea, and if I be offered",
+      "comment": "Literally, If I be poured out. Upon the sacrifice of your faith - The Philippians, as the other converted heathens, were a sacrifice to God through St. Paul's ministry, Rom. xv, 16. And as in sacrificing, wine was poured at the foot of the altar, so he was willing that his blood should be poured out. The expression well agrees with that kind of martyrdom by which he was afterwards offered up to God."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Congratulate me",
+      "comment": "When I am offered up."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "When I know",
+      "comment": "Upon my return, that ye stand steadfast."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "I have none",
+      "comment": "Of those who are now with me."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "For all",
+      "comment": "But Timotheus. Seek their own - Ease, safety, pleasure, or profit. Amazing! In that golden age of the church, could St. Paul throughly approve of one only, among all the labourers that were with him? chap. i, 14, 17. And how many do we think can now approve themselves to God? Not the things of Jesus Christ - They who seek these alone, will sadly experience this. They will find few helpers likeminded with themselves, willing naked to follow a naked Master."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "As a son with his father",
+      "comment": "He uses an elegant peculiarity of phrase, speaking partly as of a son, partly as of a fellowlabourer."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "To send Epaphroditus",
+      "comment": "Back immediately. Your messenger - The Philippians had sent him to St. Paul with their liberal contribution."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "He was full of heaviness",
+      "comment": "Because he supposed you would be afflicted at hearing that he was sick."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "God had compassion on him",
+      "comment": "Restoring him to health."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "That I may be the less sorrowful",
+      "comment": "When I know you are rejoicing."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "To supply your deficiency of service",
+      "comment": "To do what you could not do in person."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "The same things",
+      "comment": "Which you have heard before."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Beware of dogs",
+      "comment": "Unclean, unholy, rapacious men. The title which the Jews usually gave the gentiles, he returns upon themselves. The concision - Circumcision being now ceased, the apostle will not call them the circumcision, but coins a term on purpose, taken from a Greek word used by the LXX, Lev. xxi, 5, for such a cutting as God had forbidden."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "For we",
+      "comment": "Christians. Are the only true circumcision - The people now in covenant with God. Who worship God in spirit - Not barely in the letter, but with the spiritual worship of inward holiness. And glory in Christ Jesus - As the only cause of all our blessings. And have no confidence in the flesh - In any outward advantage or prerogative."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Though I",
+      "comment": "He subjoins this in the singular number, because the Philippians could not say thus."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Circumcised the eighth day",
+      "comment": "Not at ripe age, as a proselyte. Of the tribe of Benjamin - Sprung from the wife, not the handmaid. An Hebrew of Hebrews - By both my parents; in everything, nation, religion, language. Touching the law, a pharisee - One of that sect who most accurately observe it."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Having such a zeal for it as to persecute to the death those who did not observe it. Touching the righteousness which is described and enjoined by the Law",
+      "comment": "That is, external observances, blameless."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "",
+      "comment": "But all these things, which I then accounted gain, which were once my confidence, my glory, and joy, those, ever since I have believed, I have accounted loss, nothing worth in comparison of Christ."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Yea, I still account both all these and all things else to be mere loss, compared to the inward, experimental knowledge of Christ, as my Lord, as my prophet, priest, and king, as teaching me wisdom, atoning for my sins, and reigning in my heart. To refer this to justification only, is miserably to pervert the whole scope of the words. They manifestly relate to sanctification also; yea, to that chiefly. For whom I have actually suffered the loss of all things",
+      "comment": "Which the world loves, esteems, or admires; of which I am so far from repenting, that I still account them but dung - The discourse rises. Loss is sustained with patience, but dung is cast away with abhorrence. The Greek word signifies any, the vilest refuse of things, the dross of metals, the dregs of liquors, the excrements of animals, the most worthless scraps of meat, the basest offals, fit only for dogs. That I may gain Christ - He that loses all things, not excepting himself, gains Christ, and is gained by Christ. And still there is more; which even St. Paul speaks of his having not yet gained."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "And be found by God ingrafted in him, not having my own righteousness, which is of the law",
+      "comment": "That merely outward righteousness prescribed by the law, and performed by my own strength. But that inward righteousness which is through faith - Which can flow from no other fountain. The righteousness which is from God - From his almighty Spirit, not by my own strength, but by faith alone. Here also the apostle is far from speaking of justification only."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "The knowledge of Christ, mentioned in the eighth verse, is here more largely explained. That I may know him",
+      "comment": "As my complete saviour. And the power of his resurrection - Raising me from the death of sin, into all the life of love. And the fellowship of his sufferings - Being crucified with him. And made conformable to his death - So as to be dead to all things here below."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "The resurrection of the dead",
+      "comment": "That is, the resurrection to glory."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Not that I have already attained",
+      "comment": "The prize. He here enters on a new set of metaphors, taken from a race. But observe how, in the utmost fervour, he retains his sobriety of spirit. Or am already perfected - There is a difference between one that is perfect, and one that is perfected. The one is fitted for the race, ver. 15; the other, ready to receive the prize. But I pursue, if I may apprehend that - Perfect holiness, preparatory to glory. For, in order to which I was apprehended by Christ Jesus - Appearing to me in the way, Acts xxvi, 14. The speaking conditionally both here and in the preceding verse, implies no uncertainty, but only the difficulty of attaining."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "",
+      "comment": "I do not account myself to have apprehended this already; to be already possessed of perfect holiness."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Forgetting the things that are behind",
+      "comment": "Even that part of the race which is already run. And reaching forth unto - Literally, stretched out over the things that are before - Pursuing with the whole bent and vigour of my soul, perfect holiness and eternal glory. In Christ Jesus - The author and finisher of every good thing."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Let us, as many as are perfect",
+      "comment": "Fit for the race, strong in faith; so it means here. Be thus minded - Apply wholly to this one thing. And if in anything ye - Who are not perfect, who are weak in faith. Be otherwise minded - Pursuing other things. God, if ye desire it, shall reveal even this unto you - Will convince you of it."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "",
+      "comment": "But let us take care not to lose the ground we have already gained. Let us walk by the same rule we have done hitherto."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Mark them",
+      "comment": "For your imitation."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Weeping",
+      "comment": "As he wrote. Enemies of the cross of Christ - Such are all cowardly, all shamefaced, all delicate Christians."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Whose end is destruction",
+      "comment": "This is placed in the front, that what follows may be read with the greater horror. Whose God is their belly - Whose supreme happiness lies in gratifying their sensual appetites. Who mind - Relish, desire, seek, earthly things."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Our conversation",
+      "comment": "The Greek word is of a very extenslve meaning: our citizenship, our thoughts, our affections, are already in heaven."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Who will transform our vile body",
+      "comment": "Into the most perfect state, and the most beauteous form. It will then be purer than the unspotted firmament, brighter than the lustre of the stars and, which exceeds all parallel, which comprehends all perfection, like unto his glorious body - Like that wonderfully glorious body which he wears in his heavenly kingdom, and on his triumphant throne."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "So stand",
+      "comment": "As ye have done hitherto."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "I beseech",
+      "comment": "He repeats this twice, as if speaking to each face to face, and that with the utmost tenderness."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "And I entreat thee also, true yokefellow",
+      "comment": "St. Paul had many fellowlabourers, but not many yokefellows. In this number was Barnabas first, and then Silas, whom he probably addresses here; for Silas had been his yokefellow at the very place, Acts xvi, 19. Help those women who laboured together with me - Literally, who wrestled. The Greek word doth not imply preaching, or anything of that kind; but danger and toil endured for the sake of the gospel, which was also endured at the same time, probably at Philippi, by Clement and my other fellowlabourers - This is a different word from the former, and does properly imply fellowpreachers. Whose names, although not set down here, are in the book of life - As are those of all believers. An allusion to the wrestlers in the Olympic games, whose names were all enrolled in a book. Reader, is thy name there? Then walk circumspectly, lest the Lord blot thee out of his book!"
+    },
+    {
+      "chapter": 4,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Let your gentleness",
+      "comment": "Yieldingness, sweetness of temper, the result of joy in the Lord. Be known - By your whole behaviour. To all men - Good and bad, gentle and froward. Those of the roughest tempers are good natured to some, from natural sympathy and various motives; a Christian, to all. The Lord - The judge, the rewarder, the avenger. Is at hand - Standeth at the door."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Be anxiously careful for nothing",
+      "comment": "If men are not gentle towards you, yet neither on this, nor any other account, be careful, but pray. Carefulness and prayer cannot stand together. In every thing - Great and small. Let your requests be made known - They who by a preposterous shame or distrustful modesty, cover, stifle, or keep in their desires, as if they were either too small or too great, must be racked with care; from which they are entirely delivered, who pour them out with a free and filial confidence. To God - It is not always proper to disclose them to men. By supplication - Which is the enlarging upon and pressing our petition. With thanksgiving - The surest mark of a soul free from care, and of prayer joined with true resignation. This is always followed by peace. Peace and thanksgiving are both coupled together, Colossians iii, 15."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "And the peace of God",
+      "comment": "That calm, heavenly repose, that tranquility of spirit, which God only can give. Which surpasseth all understanding - Which none can comprehend, save he that receiveth it. Shall keep - Shall guard, as a garrison does a city. Your hearts - Your affections. Your minds - Your understandings, and all the various workings of them; through the Spirit and power of Christ Jesus, in the knowledge and love of God. Without a guard set on these likewise, the purity and vigour of our affections cannot long be preserved."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Finally",
+      "comment": "To sum up all. Whatsoever things are true - Here are eight particulars placed in two fourfold rows; the former containing their duty; the latter, the commendation of it. The first word in the former row answers the first in the latter; the second word, the second and so on. True - In speech. Honest - In action. Just - With regard to others. Pure - With regard to yourselves. Lovely - And what more lovely than truth? Of good report - As is honesty, even where it is not practiced. If there be any virtue - And all virtues are contained in justice. If there be any praise - In those things which relate rather to ourselves than to our neighbour. Think on these things - That ye may both practice them yourselves, and recommend them to others."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "The things which ye have learned",
+      "comment": "As catechumens. And received - By continual instructions. And heard and seen - In my life and conversation. These do, and the God of peace shall be with you - Not only the peace of God, but God himself, the fountain of peace."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "I rejoiced greatly",
+      "comment": "St. Paul was no Stoic: he had strong passions, but all devoted to God. That your care of me hath flourished again - As a tree blossoms after the winter. Ye wanted opportunity - Either ye had not plenty yourselves, or you wanted a proper messenger."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "I have learned",
+      "comment": "From God. He only can teach this. In everything, therewith to be content - Joyfully and thankfully patient. Nothing less is Christian content. We may observe a beautiful gradation in the expressions, I have learned; I know; I am instructed; I can."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "I know how to be abased",
+      "comment": "Having scarce what is needful for my body. And to abound - Having wherewith to relieve others also. Presently after, the order of the words is inverted, to intimate his frequent transition from scarcity to plenty, and from plenty to scarcity. I am instructed - Literally, I am initiated in that mystery, unknown to all but Christians. Both to be full and to be hungry - For one day. Both to abound and to want - For a longer season."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "I can do all things",
+      "comment": "Even fulfil all the will of God."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "In the beginning of the gospel",
+      "comment": "When it was first preached at Philippi. In respect of giving - On your part. And receiving - On mine."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Not that I desire",
+      "comment": "For my own sake, the very gift which I receive of you."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "An odour of a sweet smell",
+      "comment": "More pleasing to God than the sweetest perfumes to men."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "All your need",
+      "comment": "As ye have mine. According to his riches in glory - In his abundant, eternal glory."
+    }
+  ]
+}

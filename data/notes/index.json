@@ -1,0 +1,530 @@
+[
+  {
+    "slug": "matthew",
+    "name": "Matthew",
+    "testament": "NT",
+    "note_count": 704,
+    "chapter_count": 28,
+    "max_chapter": 28
+  },
+  {
+    "slug": "mark",
+    "name": "Mark",
+    "testament": "NT",
+    "note_count": 310,
+    "chapter_count": 16,
+    "max_chapter": 16
+  },
+  {
+    "slug": "luke",
+    "name": "Luke",
+    "testament": "NT",
+    "note_count": 589,
+    "chapter_count": 24,
+    "max_chapter": 24
+  },
+  {
+    "slug": "john",
+    "name": "John",
+    "testament": "NT",
+    "note_count": 578,
+    "chapter_count": 21,
+    "max_chapter": 21
+  },
+  {
+    "slug": "acts",
+    "name": "Acts",
+    "testament": "NT",
+    "note_count": 676,
+    "chapter_count": 28,
+    "max_chapter": 28
+  },
+  {
+    "slug": "romans",
+    "name": "Romans",
+    "testament": "NT",
+    "note_count": 386,
+    "chapter_count": 16,
+    "max_chapter": 16
+  },
+  {
+    "slug": "1corinthians",
+    "name": "1 Corinthians",
+    "testament": "NT",
+    "note_count": 388,
+    "chapter_count": 16,
+    "max_chapter": 16
+  },
+  {
+    "slug": "2corinthians",
+    "name": "2 Corinthians",
+    "testament": "NT",
+    "note_count": 221,
+    "chapter_count": 13,
+    "max_chapter": 13
+  },
+  {
+    "slug": "galatians",
+    "name": "Galatians",
+    "testament": "NT",
+    "note_count": 144,
+    "chapter_count": 6,
+    "max_chapter": 6
+  },
+  {
+    "slug": "ephesians",
+    "name": "Ephesians",
+    "testament": "NT",
+    "note_count": 143,
+    "chapter_count": 6,
+    "max_chapter": 6
+  },
+  {
+    "slug": "philippians",
+    "name": "Philippians",
+    "testament": "NT",
+    "note_count": 89,
+    "chapter_count": 4,
+    "max_chapter": 4
+  },
+  {
+    "slug": "colossians",
+    "name": "Colossians",
+    "testament": "NT",
+    "note_count": 78,
+    "chapter_count": 4,
+    "max_chapter": 4
+  },
+  {
+    "slug": "1thessalonians",
+    "name": "1 Thessalonians",
+    "testament": "NT",
+    "note_count": 69,
+    "chapter_count": 5,
+    "max_chapter": 5
+  },
+  {
+    "slug": "2thessalonians",
+    "name": "2 Thessalonians",
+    "testament": "NT",
+    "note_count": 36,
+    "chapter_count": 3,
+    "max_chapter": 3
+  },
+  {
+    "slug": "1timothy",
+    "name": "1 Timothy",
+    "testament": "NT",
+    "note_count": 98,
+    "chapter_count": 6,
+    "max_chapter": 6
+  },
+  {
+    "slug": "2timothy",
+    "name": "2 Timothy",
+    "testament": "NT",
+    "note_count": 66,
+    "chapter_count": 4,
+    "max_chapter": 4
+  },
+  {
+    "slug": "titus",
+    "name": "Titus",
+    "testament": "NT",
+    "note_count": 45,
+    "chapter_count": 3,
+    "max_chapter": 3
+  },
+  {
+    "slug": "philemon",
+    "name": "Philemon",
+    "testament": "NT",
+    "note_count": 18,
+    "chapter_count": 1,
+    "max_chapter": 1
+  },
+  {
+    "slug": "hebrews",
+    "name": "Hebrews",
+    "testament": "NT",
+    "note_count": 275,
+    "chapter_count": 13,
+    "max_chapter": 13
+  },
+  {
+    "slug": "james",
+    "name": "James",
+    "testament": "NT",
+    "note_count": 94,
+    "chapter_count": 5,
+    "max_chapter": 5
+  },
+  {
+    "slug": "1peter",
+    "name": "1 Peter",
+    "testament": "NT",
+    "note_count": 98,
+    "chapter_count": 5,
+    "max_chapter": 5
+  },
+  {
+    "slug": "2peter",
+    "name": "2 Peter",
+    "testament": "NT",
+    "note_count": 56,
+    "chapter_count": 3,
+    "max_chapter": 3
+  },
+  {
+    "slug": "1john",
+    "name": "1 John",
+    "testament": "NT",
+    "note_count": 101,
+    "chapter_count": 5,
+    "max_chapter": 5
+  },
+  {
+    "slug": "2john",
+    "name": "2 John",
+    "testament": "NT",
+    "note_count": 13,
+    "chapter_count": 1,
+    "max_chapter": 1
+  },
+  {
+    "slug": "3john",
+    "name": "3 John",
+    "testament": "NT",
+    "note_count": 12,
+    "chapter_count": 1,
+    "max_chapter": 1
+  },
+  {
+    "slug": "jude",
+    "name": "Jude",
+    "testament": "NT",
+    "note_count": 23,
+    "chapter_count": 1,
+    "max_chapter": 1
+  },
+  {
+    "slug": "revelation",
+    "name": "Revelation",
+    "testament": "NT",
+    "note_count": 366,
+    "chapter_count": 22,
+    "max_chapter": 22
+  },
+  {
+    "slug": "genesis",
+    "name": "Genesis",
+    "testament": "OT",
+    "note_count": 549,
+    "chapter_count": 50,
+    "max_chapter": 50
+  },
+  {
+    "slug": "exodus",
+    "name": "Exodus",
+    "testament": "OT",
+    "note_count": 459,
+    "chapter_count": 40,
+    "max_chapter": 40
+  },
+  {
+    "slug": "leviticus",
+    "name": "Leviticus",
+    "testament": "OT",
+    "note_count": 476,
+    "chapter_count": 27,
+    "max_chapter": 27
+  },
+  {
+    "slug": "numbers",
+    "name": "Numbers",
+    "testament": "OT",
+    "note_count": 538,
+    "chapter_count": 36,
+    "max_chapter": 36
+  },
+  {
+    "slug": "deuteronomy",
+    "name": "Deuteronomy",
+    "testament": "OT",
+    "note_count": 503,
+    "chapter_count": 34,
+    "max_chapter": 34
+  },
+  {
+    "slug": "joshua",
+    "name": "Joshua",
+    "testament": "OT",
+    "note_count": 393,
+    "chapter_count": 24,
+    "max_chapter": 24
+  },
+  {
+    "slug": "judges",
+    "name": "Judges",
+    "testament": "OT",
+    "note_count": 433,
+    "chapter_count": 21,
+    "max_chapter": 21
+  },
+  {
+    "slug": "ruth",
+    "name": "Ruth",
+    "testament": "OT",
+    "note_count": 55,
+    "chapter_count": 4,
+    "max_chapter": 4
+  },
+  {
+    "slug": "1samuel",
+    "name": "1 Samuel",
+    "testament": "OT",
+    "note_count": 461,
+    "chapter_count": 31,
+    "max_chapter": 31
+  },
+  {
+    "slug": "2samuel",
+    "name": "2 Samuel",
+    "testament": "OT",
+    "note_count": 311,
+    "chapter_count": 22,
+    "max_chapter": 23
+  },
+  {
+    "slug": "1kings",
+    "name": "1 Kings",
+    "testament": "OT",
+    "note_count": 469,
+    "chapter_count": 22,
+    "max_chapter": 22
+  },
+  {
+    "slug": "2kings",
+    "name": "2 Kings",
+    "testament": "OT",
+    "note_count": 322,
+    "chapter_count": 25,
+    "max_chapter": 25
+  },
+  {
+    "slug": "1chronicles",
+    "name": "1 Chronicles",
+    "testament": "OT",
+    "note_count": 247,
+    "chapter_count": 27,
+    "max_chapter": 29
+  },
+  {
+    "slug": "2chronicles",
+    "name": "2 Chronicles",
+    "testament": "OT",
+    "note_count": 272,
+    "chapter_count": 36,
+    "max_chapter": 36
+  },
+  {
+    "slug": "ezra",
+    "name": "Ezra",
+    "testament": "OT",
+    "note_count": 90,
+    "chapter_count": 10,
+    "max_chapter": 10
+  },
+  {
+    "slug": "nehemiah",
+    "name": "Nehemiah",
+    "testament": "OT",
+    "note_count": 133,
+    "chapter_count": 13,
+    "max_chapter": 13
+  },
+  {
+    "slug": "esther",
+    "name": "Esther",
+    "testament": "OT",
+    "note_count": 75,
+    "chapter_count": 10,
+    "max_chapter": 10
+  },
+  {
+    "slug": "job",
+    "name": "Job",
+    "testament": "OT",
+    "note_count": 764,
+    "chapter_count": 42,
+    "max_chapter": 42
+  },
+  {
+    "slug": "psalms",
+    "name": "Psalms",
+    "testament": "OT",
+    "note_count": 1283,
+    "chapter_count": 147,
+    "max_chapter": 150
+  },
+  {
+    "slug": "proverbs",
+    "name": "Proverbs",
+    "testament": "OT",
+    "note_count": 541,
+    "chapter_count": 31,
+    "max_chapter": 31
+  },
+  {
+    "slug": "ecclesiastes",
+    "name": "Ecclesiastes",
+    "testament": "OT",
+    "note_count": 197,
+    "chapter_count": 12,
+    "max_chapter": 12
+  },
+  {
+    "slug": "songofsolomon",
+    "name": "Song of Solomon",
+    "testament": "OT",
+    "note_count": 112,
+    "chapter_count": 8,
+    "max_chapter": 8
+  },
+  {
+    "slug": "isaiah",
+    "name": "Isaiah",
+    "testament": "OT",
+    "note_count": 1019,
+    "chapter_count": 63,
+    "max_chapter": 66
+  },
+  {
+    "slug": "jeremiah",
+    "name": "Jeremiah",
+    "testament": "OT",
+    "note_count": 604,
+    "chapter_count": 52,
+    "max_chapter": 52
+  },
+  {
+    "slug": "lamentations",
+    "name": "Lamentations",
+    "testament": "OT",
+    "note_count": 80,
+    "chapter_count": 5,
+    "max_chapter": 5
+  },
+  {
+    "slug": "ezekiel",
+    "name": "Ezekiel",
+    "testament": "OT",
+    "note_count": 797,
+    "chapter_count": 48,
+    "max_chapter": 48
+  },
+  {
+    "slug": "daniel",
+    "name": "Daniel",
+    "testament": "OT",
+    "note_count": 173,
+    "chapter_count": 12,
+    "max_chapter": 12
+  },
+  {
+    "slug": "hosea",
+    "name": "Hosea",
+    "testament": "OT",
+    "note_count": 175,
+    "chapter_count": 14,
+    "max_chapter": 14
+  },
+  {
+    "slug": "joel",
+    "name": "Joel",
+    "testament": "OT",
+    "note_count": 63,
+    "chapter_count": 3,
+    "max_chapter": 3
+  },
+  {
+    "slug": "amos",
+    "name": "Amos",
+    "testament": "OT",
+    "note_count": 127,
+    "chapter_count": 9,
+    "max_chapter": 9
+  },
+  {
+    "slug": "obadiah",
+    "name": "Obadiah",
+    "testament": "OT",
+    "note_count": 19,
+    "chapter_count": 1,
+    "max_chapter": 1
+  },
+  {
+    "slug": "jonah",
+    "name": "Jonah",
+    "testament": "OT",
+    "note_count": 35,
+    "chapter_count": 4,
+    "max_chapter": 4
+  },
+  {
+    "slug": "micah",
+    "name": "Micah",
+    "testament": "OT",
+    "note_count": 99,
+    "chapter_count": 7,
+    "max_chapter": 7
+  },
+  {
+    "slug": "nahum",
+    "name": "Nahum",
+    "testament": "OT",
+    "note_count": 40,
+    "chapter_count": 3,
+    "max_chapter": 3
+  },
+  {
+    "slug": "habakkuk",
+    "name": "Habakkuk",
+    "testament": "OT",
+    "note_count": 42,
+    "chapter_count": 3,
+    "max_chapter": 3
+  },
+  {
+    "slug": "zephaniah",
+    "name": "Zephaniah",
+    "testament": "OT",
+    "note_count": 44,
+    "chapter_count": 3,
+    "max_chapter": 3
+  },
+  {
+    "slug": "haggai",
+    "name": "Haggai",
+    "testament": "OT",
+    "note_count": 25,
+    "chapter_count": 2,
+    "max_chapter": 2
+  },
+  {
+    "slug": "zechariah",
+    "name": "Zechariah",
+    "testament": "OT",
+    "note_count": 171,
+    "chapter_count": 14,
+    "max_chapter": 14
+  },
+  {
+    "slug": "malachi",
+    "name": "Malachi",
+    "testament": "OT",
+    "note_count": 48,
+    "chapter_count": 4,
+    "max_chapter": 4
+  }
+]

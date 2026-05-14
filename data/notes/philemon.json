@@ -1,0 +1,135 @@
+{
+  "slug": "philemon",
+  "name": "Philemon",
+  "testament": "NT",
+  "header": "ST. PAUL'S EPISTLE TO PHILEMON",
+  "intro": "ONESIMUS, a servant to Philemon, an eminent person in Colosse, ran away from his master to Rome. Here he was converted to Christianity by St. Paul, who sent him back to his master with this letter. It seems, Philemon not only pardoned, but gave him his liberty; seeing Ignatius makes mention of him, as succeeding Timotheus at Ephesus. The letter has three parts\n\nI. The inscription, 1-3\n\nII. After commending Philemon's faith and love,. 4-7 He desires him to receive Onesimus again,. 8-21 And to prepare a lodging for himself, 22\n\nIII. The conclusion, 23-23\n\nPHILEMON",
+  "notes": [
+    {
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "This single epistle infinitely transcends all the wisdom of the world. And it gives us a specimen how Christians ought to treat of secular affairs from higher principles. Paul a prisoner of Christ",
+      "comment": "To whom, as such, Philemon could deny nothing. And Timotheus - This was written before the second epistle to Timothy, ver. xxii."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "To Apphia",
+      "comment": "His wife, to whom also the business in part belonged. And the church in thy house - The Christians who meet there."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Hearing",
+      "comment": "Probably from Onesimus."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "I pray that the communication of thy faith may become effectual",
+      "comment": "That is, that thy faith may be effectually communicated to others, who see and acknowledge thy piety and charity."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "The saints",
+      "comment": "To whom Philemon's house was open, verse ii."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "I might be bold in Christ",
+      "comment": "Through the authority he hath given me."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Yet out of love I rather entreat thee",
+      "comment": "In how handsome a manner does the apostle just hint, and immediately drop, the consideration of his power to command, and tenderly entreat Philemon to hearken to his friend, his aged friend, and now prisoner for Christ! With what endearment, in the next verse, does he call Onesimus his son, before he names his name! And as soon as he had mentioned it, with what fine address does he just touch on his former faults, and instantly pass on to the happy change that was now made upon him! So disposing Philemon to attend to his request, and the motives wherewith he was going to enforce it."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Whom I have begotten in my bonds",
+      "comment": "The son of my age."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Now profitable",
+      "comment": "None should be expected to be a good servant before he is a good man. He manifestly alludes to his name, Onesimus, which signifies profitable."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Receive him, that is, my own bowels",
+      "comment": "Whom I love as my own soul. Such is the natural affection of a father in Christ toward his spiritual children."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "To serve me in thy stead",
+      "comment": "To do those services for me which thou, if present, wouldest gladly have done thyself."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "That thy benefit might not be by constraint",
+      "comment": "For Philemon could not have refused it."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "God might permit him to be separated (a soft word) for a season, that thou mightest have him forever",
+      "comment": "Both on earth and in heaven."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "In the flesh",
+      "comment": "As a dutiful servant. In the Lord - As a fellow- Christian."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "If thou accountest me a partner",
+      "comment": "So that thy things are mine, and mine are thine."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "I will repay it",
+      "comment": "If thou requirest it. Not to say, that then owest me thyself - It cannot be expressed, how great our obligation is to those who have gained our souls to Christ. Beside - Receiving Onesimus."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Refresh my bowels in Christ",
+      "comment": "Give me the most exquisite and Christian pleasure."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Given to you",
+      "comment": "Restored to liberty."
+    }
+  ]
+}

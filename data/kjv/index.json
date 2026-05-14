@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "genesis",
+    "name": "Genesis",
+    "chapter_count": 50,
+    "verse_count": 1533
+  },
+  {
+    "slug": "exodus",
+    "name": "Exodus",
+    "chapter_count": 40,
+    "verse_count": 1213
+  },
+  {
+    "slug": "leviticus",
+    "name": "Leviticus",
+    "chapter_count": 27,
+    "verse_count": 859
+  },
+  {
+    "slug": "numbers",
+    "name": "Numbers",
+    "chapter_count": 36,
+    "verse_count": 1288
+  },
+  {
+    "slug": "deuteronomy",
+    "name": "Deuteronomy",
+    "chapter_count": 34,
+    "verse_count": 959
+  },
+  {
+    "slug": "joshua",
+    "name": "Joshua",
+    "chapter_count": 24,
+    "verse_count": 658
+  },
+  {
+    "slug": "judges",
+    "name": "Judges",
+    "chapter_count": 21,
+    "verse_count": 618
+  },
+  {
+    "slug": "ruth",
+    "name": "Ruth",
+    "chapter_count": 4,
+    "verse_count": 85
+  },
+  {
+    "slug": "1samuel",
+    "name": "1 Samuel",
+    "chapter_count": 31,
+    "verse_count": 811
+  },
+  {
+    "slug": "2samuel",
+    "name": "2 Samuel",
+    "chapter_count": 24,
+    "verse_count": 695
+  },
+  {
+    "slug": "1kings",
+    "name": "1 Kings",
+    "chapter_count": 22,
+    "verse_count": 817
+  },
+  {
+    "slug": "2kings",
+    "name": "2 Kings",
+    "chapter_count": 25,
+    "verse_count": 719
+  },
+  {
+    "slug": "1chronicles",
+    "name": "1 Chronicles",
+    "chapter_count": 29,
+    "verse_count": 942
+  },
+  {
+    "slug": "2chronicles",
+    "name": "2 Chronicles",
+    "chapter_count": 36,
+    "verse_count": 822
+  },
+  {
+    "slug": "ezra",
+    "name": "Ezra",
+    "chapter_count": 10,
+    "verse_count": 280
+  },
+  {
+    "slug": "nehemiah",
+    "name": "Nehemiah",
+    "chapter_count": 13,
+    "verse_count": 406
+  },
+  {
+    "slug": "esther",
+    "name": "Esther",
+    "chapter_count": 10,
+    "verse_count": 167
+  },
+  {
+    "slug": "job",
+    "name": "Job",
+    "chapter_count": 42,
+    "verse_count": 1070
+  },
+  {
+    "slug": "psalms",
+    "name": "Psalms",
+    "chapter_count": 150,
+    "verse_count": 2461
+  },
+  {
+    "slug": "proverbs",
+    "name": "Proverbs",
+    "chapter_count": 31,
+    "verse_count": 915
+  },
+  {
+    "slug": "ecclesiastes",
+    "name": "Ecclesiastes",
+    "chapter_count": 12,
+    "verse_count": 222
+  },
+  {
+    "slug": "songofsolomon",
+    "name": "Song of Solomon",
+    "chapter_count": 8,
+    "verse_count": 117
+  },
+  {
+    "slug": "isaiah",
+    "name": "Isaiah",
+    "chapter_count": 66,
+    "verse_count": 1292
+  },
+  {
+    "slug": "jeremiah",
+    "name": "Jeremiah",
+    "chapter_count": 52,
+    "verse_count": 1364
+  },
+  {
+    "slug": "lamentations",
+    "name": "Lamentations",
+    "chapter_count": 5,
+    "verse_count": 154
+  },
+  {
+    "slug": "ezekiel",
+    "name": "Ezekiel",
+    "chapter_count": 48,
+    "verse_count": 1273
+  },
+  {
+    "slug": "daniel",
+    "name": "Daniel",
+    "chapter_count": 12,
+    "verse_count": 357
+  },
+  {
+    "slug": "hosea",
+    "name": "Hosea",
+    "chapter_count": 14,
+    "verse_count": 197
+  },
+  {
+    "slug": "joel",
+    "name": "Joel",
+    "chapter_count": 3,
+    "verse_count": 73
+  },
+  {
+    "slug": "amos",
+    "name": "Amos",
+    "chapter_count": 9,
+    "verse_count": 146
+  },
+  {
+    "slug": "obadiah",
+    "name": "Obadiah",
+    "chapter_count": 1,
+    "verse_count": 21
+  },
+  {
+    "slug": "jonah",
+    "name": "Jonah",
+    "chapter_count": 4,
+    "verse_count": 48
+  },
+  {
+    "slug": "micah",
+    "name": "Micah",
+    "chapter_count": 7,
+    "verse_count": 105
+  },
+  {
+    "slug": "nahum",
+    "name": "Nahum",
+    "chapter_count": 3,
+    "verse_count": 47
+  },
+  {
+    "slug": "habakkuk",
+    "name": "Habakkuk",
+    "chapter_count": 3,
+    "verse_count": 56
+  },
+  {
+    "slug": "zephaniah",
+    "name": "Zephaniah",
+    "chapter_count": 3,
+    "verse_count": 53
+  },
+  {
+    "slug": "haggai",
+    "name": "Haggai",
+    "chapter_count": 2,
+    "verse_count": 38
+  },
+  {
+    "slug": "zechariah",
+    "name": "Zechariah",
+    "chapter_count": 14,
+    "verse_count": 211
+  },
+  {
+    "slug": "malachi",
+    "name": "Malachi",
+    "chapter_count": 4,
+    "verse_count": 55
+  },
+  {
+    "slug": "matthew",
+    "name": "Matthew",
+    "chapter_count": 28,
+    "verse_count": 1068
+  },
+  {
+    "slug": "mark",
+    "name": "Mark",
+    "chapter_count": 16,
+    "verse_count": 675
+  },
+  {
+    "slug": "luke",
+    "name": "Luke",
+    "chapter_count": 24,
+    "verse_count": 1151
+  },
+  {
+    "slug": "john",
+    "name": "John",
+    "chapter_count": 21,
+    "verse_count": 879
+  },
+  {
+    "slug": "acts",
+    "name": "Acts",
+    "chapter_count": 28,
+    "verse_count": 1007
+  },
+  {
+    "slug": "romans",
+    "name": "Romans",
+    "chapter_count": 16,
+    "verse_count": 433
+  },
+  {
+    "slug": "1corinthians",
+    "name": "1 Corinthians",
+    "chapter_count": 16,
+    "verse_count": 437
+  },
+  {
+    "slug": "2corinthians",
+    "name": "2 Corinthians",
+    "chapter_count": 13,
+    "verse_count": 257
+  },
+  {
+    "slug": "galatians",
+    "name": "Galatians",
+    "chapter_count": 6,
+    "verse_count": 149
+  },
+  {
+    "slug": "ephesians",
+    "name": "Ephesians",
+    "chapter_count": 6,
+    "verse_count": 155
+  },
+  {
+    "slug": "philippians",
+    "name": "Philippians",
+    "chapter_count": 4,
+    "verse_count": 104
+  },
+  {
+    "slug": "colossians",
+    "name": "Colossians",
+    "chapter_count": 4,
+    "verse_count": 95
+  },
+  {
+    "slug": "1thessalonians",
+    "name": "1 Thessalonians",
+    "chapter_count": 5,
+    "verse_count": 89
+  },
+  {
+    "slug": "2thessalonians",
+    "name": "2 Thessalonians",
+    "chapter_count": 3,
+    "verse_count": 47
+  },
+  {
+    "slug": "1timothy",
+    "name": "1 Timothy",
+    "chapter_count": 6,
+    "verse_count": 113
+  },
+  {
+    "slug": "2timothy",
+    "name": "2 Timothy",
+    "chapter_count": 4,
+    "verse_count": 83
+  },
+  {
+    "slug": "titus",
+    "name": "Titus",
+    "chapter_count": 3,
+    "verse_count": 46
+  },
+  {
+    "slug": "philemon",
+    "name": "Philemon",
+    "chapter_count": 1,
+    "verse_count": 25
+  },
+  {
+    "slug": "hebrews",
+    "name": "Hebrews",
+    "chapter_count": 13,
+    "verse_count": 303
+  },
+  {
+    "slug": "james",
+    "name": "James",
+    "chapter_count": 5,
+    "verse_count": 108
+  },
+  {
+    "slug": "1peter",
+    "name": "1 Peter",
+    "chapter_count": 5,
+    "verse_count": 105
+  },
+  {
+    "slug": "2peter",
+    "name": "2 Peter",
+    "chapter_count": 3,
+    "verse_count": 61
+  },
+  {
+    "slug": "1john",
+    "name": "1 John",
+    "chapter_count": 5,
+    "verse_count": 105
+  },
+  {
+    "slug": "2john",
+    "name": "2 John",
+    "chapter_count": 1,
+    "verse_count": 13
+  },
+  {
+    "slug": "3john",
+    "name": "3 John",
+    "chapter_count": 1,
+    "verse_count": 15
+  },
+  {
+    "slug": "jude",
+    "name": "Jude",
+    "chapter_count": 1,
+    "verse_count": 25
+  },
+  {
+    "slug": "revelation",
+    "name": "Revelation",
+    "chapter_count": 22,
+    "verse_count": 405
+  }
+]

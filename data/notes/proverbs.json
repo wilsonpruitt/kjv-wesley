@@ -1,0 +1,3796 @@
+{
+  "slug": "proverbs",
+  "name": "Proverbs",
+  "testament": "OT",
+  "header": "THE BOOK OF PROVERBS",
+  "intro": "WE have here a new way of writing, wherein Divine wisdom is taught us in Proverbs or short sentences, which contain their whole design within themselves, and are not connected with one another. And these Proverbs of Solomon are not merely a collection of the wise sayings which had been formerly delivered, but were the dictates of the Spirit of God in Solomon: so that it is God by Solomon that here speaks to us. I say, to us: for when Solomon speaks to his son, St. Paul says, The exhortation speaketh to us, as unto children. The nine first chapters are as a preface exhorting us to the study and practice of wisdom, and warning us against the things that would hinder it. We have then the first volume of Solomon's Proverbs, chap. 10-24. After that a second volume, chap. 25-29. And then Agur's prophecy, chap. 30. And Lemuel's, chap. 31. The scope of all is, to direct us so to order our conversation, that we may see the salvation of God.",
+  "notes": [
+    {
+      "chapter": 1,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "To know",
+      "comment": "Written to help men to know throughly and practically. Both human wisdom to conduct our affairs in this life, and Divine wisdom. Instruction - The instructions delivered either by God, or men, in order to the attainment of wisdom. To perceive - Which teach a man true understanding."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "To receive",
+      "comment": "Willing to receive the counsels of others. Such as makes men wise and prudent, and to teach just judgments or equity."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Simple",
+      "comment": "Such as want wisdom. Young man - Who wants both experience and self-government."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Will hear",
+      "comment": "Is willing to learn. Attain to - The art of governing himself or others."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "The fear",
+      "comment": "Reverence and obedience to God. Beginning - The foundation without which all other knowledge is vain. Fools - That is, wicked men, are so far from attaining true wisdom, that they despise it, and all the means of getting it."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "My son",
+      "comment": "He speaks to his scholars with paternal authority and affection. Of thy mother - Those pious instructions, which thy mother instilled into thee in thy tender years."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "In vain",
+      "comment": "The fowler who spreads, his net in the sight of the bird looseth his labour. But these, are more foolish than the silly birds, and though they are not ignorant of the mischief which these evil courses will bring upon themselves, yet they will not take warning."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Their own blood",
+      "comment": "The destruction which they design to others, fall upon themselves."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Greedy",
+      "comment": "That seeks gain by wicked practices."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Wisdom",
+      "comment": "Having expressed the counsels of wicked men, he now declares the voice of wisdom. By wisdom he understands the wisdom of God revealed to men in his word. And this is said to cry with a loud voice, to intimate God's earnestness in inviting sinners to repentance. Abroad - Or, in the streets or open places. Not in corners, but openly before all the world."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Gates",
+      "comment": "Where magistrates sit in judgment, and people are assembled. The city - Not only in the gate, but in every part of the city."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Scoffers",
+      "comment": "That scoff at religion and contemn the word and faithful ministers of God."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "My words",
+      "comment": "By my spirit I will cause you to understand my word."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Called",
+      "comment": "By my ministers, by my judgments, and by the motions of my spirit and your own conscience."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Your fear",
+      "comment": "The misery you do or should fear."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Early",
+      "comment": "With diligence and fervency."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "Knowledge",
+      "comment": "The practical knowledge of God and of their duty."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "Eat",
+      "comment": "They should receive punishment answerable to their sins. Filled - With the fruits of them."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 32,
+      "verse_end": 32,
+      "lemma": "Turning",
+      "comment": "From God. Destroy - Shall prove the occasion of their ruin, by making them presumptuous, and secure. Solomon shews, that they who diligently seek wisdom shall find it, ver. 1-9. He shews the advantage of it, that it would preserve them from evil men, ver. 10-15. And evil women, ver. 16-19. And would lead them into, and keep them in the way of good men, ver. 20-22."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Hide",
+      "comment": "Lay them up in thy heart with care, as men do their choicest treasures."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Criest",
+      "comment": "To God, the only giver of it."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Seek her",
+      "comment": "With unwearied diligence and earnest desire and patient expectation."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Path of judgment",
+      "comment": "Righteous paths, judgment being here put for righteousness. And keeping of paths may be put for keeping them in their paths."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Then",
+      "comment": "When God in answer to thy desires hath given thee wisdom. Equity - All the parts of thy duty to man, as well as the fear of God."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "When",
+      "comment": "Thou dost truly love wisdom."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Darkness",
+      "comment": "Of sin."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Crooked",
+      "comment": "Who swerve from the straight way of God's law, and have windings and turnings, to escape conviction."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Strange woman",
+      "comment": "From the adulteress or whore."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Forsaketh",
+      "comment": "Her husband whom she took to be her guide and governor, in her youth. The covenant - The marriage covenant: so called because God is the author of that mutual obligation: and because God is called to be the witness and judge of that solemn promise and covenant."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "For",
+      "comment": "Conversation with her (which was most usual in her own house) is the certain way to death, which it brings many ways, and undoubtedly, without repentance, to God's wrath and the second death."
+    },
+    {
+      "chapter": 2,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "That",
+      "comment": "This depends upon ver. 11, and is mentioned as another happy fruit of wisdom. An exhortation to be steadily religious, ver. 1-4. To trust God, ver. 5, 6. To fear him, ver. 7, 8. To honour him with our substance, ver. 9, 10. To bear affliction well, ver. 11-12. The praise of wisdom, ver. 13-20. The good effects of adhering to it, ver. 21-26. Caution, against uncharitableness, strife, envy; if we would avoid a curse and inherit a blessing, ver. 27-35."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "My law",
+      "comment": "The law of God, which might be called his law, as the gospel is called Paul's gospel, 2Tim ii, 8, because delivered by him."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Mercy",
+      "comment": "Mercy denotes all benignity, charity, and readiness to do good to others: truth or faithfulness respects all those duties which we owe to God or man, which we have special obligation from the rules of justice. Bind them - Like a chain, wherewith persons adorn their necks. Table - In thy mind and heart, in which all God's commands are to be received and engraven."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Understanding",
+      "comment": "Whereby to know thy duty, and to discern between good and evil. Of God - Grace or favour with God, and that understanding which is good in God's sight."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Trust",
+      "comment": "Wholly rely upon God's promises and providences. Lean not - Under this one kind of carnal confidence, he understands all other confidence in bodily strength, wealth, or friends."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Navel",
+      "comment": "To thy body, which is signified by one part of it. Marrow - Which is the nourishment and strength of the bones."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Substance",
+      "comment": "Lay out thy estate not to please thyself, but to glorify God. First-fruits - Or, with the chief or best; which answers to the first-fruits under the law."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "So",
+      "comment": "This is not the way to diminish thy estate, but rather to increase it."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Despise not",
+      "comment": "Either by making light of it, or not being duly affected with it; or by accounting it an unnecessary thing: but rather esteem it a privilege and favour from God. Weary - Neither think it tedious or hard, but endure it with patience and chearfulness."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Findeth",
+      "comment": "Which supposes his diligent searching for it."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Peace",
+      "comment": "Procure a blessed tranquility in a man's mind and conscience."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "A tree",
+      "comment": "A pledge of everlasting life. He alludes to the tree of life, and intimates, that this is the only restorer of that life which we have lost by sin."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Wisdom",
+      "comment": "Either by Christ, or by that Divine perfection of wisdom, which is the fountain of wisdom in man."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "The depths",
+      "comment": "That great abyss contained in the bowels of the earth, breaks forth into fountains and rivers."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Eyes",
+      "comment": "The eyes of thy mind. Constantly and seriously meditate upon them."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Grace",
+      "comment": "Like a beautiful chain or ornament."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Be not",
+      "comment": "Thou shalt not be afraid. Sudden - For sudden and unexpected evils are most frightful. And fear is here put for the evils feared. Desolation - Which cometh upon the wicked."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Shall be",
+      "comment": "A sure ground of confidence to thee. Taken - In the snares either of sin or mischief."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "With-hold not",
+      "comment": "Do not deny it, but readily and chearfuly impart it. Good - Any thing which is good, either counsel, comfort, reproof, or the good things of the present life. Due - That is, to all men, by that great and sovereign law of love."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Say not",
+      "comment": "The former verse forbad the denial, and this forbids the delay of this duty."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "Securely",
+      "comment": "Relying upon thine integrity."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "Envy not",
+      "comment": "For his impunity and success."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 32,
+      "verse_end": 32,
+      "lemma": "Abomination",
+      "comment": "Therefore sooner or later he must be miserable. The righteous - They are God's friends, to whom he imparts the favours and comforts to which other men are strangers."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 33,
+      "verse_end": 33,
+      "lemma": "The house",
+      "comment": "Not only upon his own person, but also upon his posterity."
+    },
+    {
+      "chapter": 3,
+      "verse_start": 35,
+      "verse_end": 35,
+      "lemma": "Shame",
+      "comment": "Instead of that glory which they seek. An exhortation to the study of wisdom, is forced by various arguments, ver. 1-13. A caution against bad company, ver. 14-19. Directions for the attaining and keeping of wisdom, ver. 20-27."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "A father",
+      "comment": "Of me, who have paternal authority over you and affection for you."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Tender",
+      "comment": "Young and tender in years, and tenderly educated. Only beloved - Beloved above all the rest."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Said",
+      "comment": "The following verses, at least as far as the tenth verse, are the words of David."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "With all",
+      "comment": "Even with the price of all."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Exalt",
+      "comment": "Let her have thine highest esteem and affection."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Grace",
+      "comment": "A beautiful ornament, such as they used to put upon their heads."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "For",
+      "comment": "They cannot sleep with quietness."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "For",
+      "comment": "Wickedness is as pleasant to them as their bread."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "But",
+      "comment": "Just men daily grow in knowledge, and grace, and consolation, 'till all be perfected and swallowed up in glory."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Darkness",
+      "comment": "Full of ignorance and error, of uncertainty and confusion, of danger and misery."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Heart",
+      "comment": "Thy thoughts, will, and affections. For - From thence proceed all the actions, as of the natural, so of the spiritual life, which lead to eternal life."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Mouth",
+      "comment": "All sorts of sinful words."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Right on",
+      "comment": "Direct all thine actions to a right end, and keep thy mind fixed upon that way which leads to it, and neither look or turn aside to the right-hand or the left."
+    },
+    {
+      "chapter": 4,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Ponder",
+      "comment": "Consider thine actions before thou dost them, and see that they agree with the rule. And - Let thine actions be uniformly and constantly good in spite of all temptations. A farther exhortation to wisdom, ver. 1, 2. A caution against whoredom, ver. 3-14. Remedies against it, ver. 15-23."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "The lips",
+      "comment": "It concerns thee to get and to use discretion, that thou mayest be able to resist those temptations to which thou art exposed."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "But",
+      "comment": "The effect of that to which she entices men, is destruction."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Feet",
+      "comment": "Her manner of life."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Lest",
+      "comment": "To prevent thy serious consideration. Moveable - She transforms herself into several shapes, and has a thousand arts to ensnare. Know - Thou canst not discover all her practice."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "honour",
+      "comment": "Thy dignity and reputation, the strength of thy body and mind. Years - The flower of thine age. The cruel - To the harlot, who though she pretends love, yet in truth is one of the most cruel creatures in the world, wasting thy estate and body without pity, and damming thy soul forever. 10. Strangers - Not only the strange women themselves, but others who are in league with them. labours - Wealth gotten by thy labours."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "A moment",
+      "comment": "In how little a time am I now come into remediless misery! Assembly - And that in the congregation of Israel, where I was taught better things."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Drink",
+      "comment": "Content thyself with those delights which God alloweth thee in the sober use of the marriage-bed."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Fountains",
+      "comment": "Thy children proceeding from thy wife and from thyself. Fountains are here put for rivers flowing from them. Dispersed - They shall in due time appear abroad to thy comfort, and for the good of others."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Fountain",
+      "comment": "Thy wife. Blessed - With children; for barrenness was esteemed a curse among the Israelites."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Satisfy thee",
+      "comment": "At all convenient times: for that there may be excess in the marriage-bed is manifest. Ravished - Love her fervently. It is an hyperbolical expression."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Holden",
+      "comment": "He is in perfect bondage to his lusts, and is neither able nor wiling to set himself at liberty."
+    },
+    {
+      "chapter": 5,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Die",
+      "comment": "He shall die in his sins. Astray-From the way of life, and from eternal salvation. A caution against suretyship, ver. 1-5. Against slothfulness, ver. 6-11. The practice and end of a mischievous man, ver. 12-15. Account of seven things which God hates, ver. 16-19. An exhortation to keep the commandments, ver. 20-23. Farther warnings against whoredom, ver. 24-35."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Surety",
+      "comment": "Rashly, without considering how thou shalt discharge the debt as occasion require. Otherwise suretyship in some cases may be not only lawful, but an act of justice and charity. Stricken thy hand - Obliged thyself by giving thine hand, as the custom then was in such cases. With - With the creditor, whom he calls a stranger, because the usurers in Israel, who lent money to others, upon condition of paying use for it, were either Heathens, or were reputed as bad as Heathens, because this practice was forbidden by God's law, Deut. xxiii, 19."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Hand",
+      "comment": "Into the power. Friend - Of the debtor, for whom, as being thy friend, thou didst become surety; whereby thou art in his power, by his neglect or unfaithfulness, to expose thee to the payment of the debt. Make sure - Or, and prevail with thy friend, strive to win him by thine incessant and earnest solicitations."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Give not sleep",
+      "comment": "Until thou hast taken care for the discharge of this obligation."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Go",
+      "comment": "This is a distinct precept; and it is for the most part as needless to seek, as hard to find, coherence in the Proverbs."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Travelleth",
+      "comment": "Swiftly and unexpectedly. Armed man - Irresistibly."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Hate",
+      "comment": "Above many other sins which have a worse name in the world."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Deviseth",
+      "comment": "He whose practice it is to contrive wickedness. Swift - Such as greedily execute their wicked designs."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "The law",
+      "comment": "The word of God, which thy parents delivered to thee."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Bind them",
+      "comment": "Constantly remember, and duly consider them."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "It",
+      "comment": "The law of God which thy parents have taught thee. Talk - It shall give thee counsel and comfort."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Eye-lids",
+      "comment": "With her wanton glances,"
+    },
+    {
+      "chapter": 6,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "Despise",
+      "comment": "Abhor, but rather pity him."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "Restore",
+      "comment": "He speaks not of that restitution which the law required, but of that which either the wronged person might force the thief to make, or which the thief would willingly give rather than be exposed to public shame."
+    },
+    {
+      "chapter": 6,
+      "verse_start": 34,
+      "verse_end": 34,
+      "lemma": "Rage",
+      "comment": "It enflames a man with rage. In the day - When he hath an opportunity to avenge himself. An exhortation to cleave to wisdom, as a preservative from strange women, ver. 1-5. The snares they lay for unwary young men, ver. 6-23. A serious caution against coming near them, ver. 24-37."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Live",
+      "comment": "Thou shalt live. Eye - With all possible care and diligence."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Bind them",
+      "comment": "As a ring which is continually in a man's eye."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "And call",
+      "comment": "Acquaint and delight thyself with her."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Passing",
+      "comment": "Idle and careless, near the corner of the street in which her house stood."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Without",
+      "comment": "Without the door of her house. Corner - Of the streets, where she might either conceal or discover herself, as she saw fit."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Offerings",
+      "comment": "I have paid my peace-offerings which I had vowed. Whereby she signifies, that she had plentiful provisions at her house for his entertainment. For the peace-offerings were to be of the best flesh, Lev. xxii, 21, and a considerable part of these offerings fell to the offerer's share."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Hath taken",
+      "comment": "Which is an evidence that he designs to stay a considerable time. At the day - So that we need not fear any surprise."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "As an ox",
+      "comment": "Going to it securely, as if it were going to a good pasture."
+    },
+    {
+      "chapter": 7,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "His liver",
+      "comment": "His vital parts, 'till his life be lost. A recommendation of Divine wisdom, ver. 1-21. The praise of the Son of God, the eternal Wisdom of the Father, ver. 22-31. An exhortation to hearken to him, ver. 32-36."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Wisdom",
+      "comment": "It is a great question what this wisdom is. Some understand it of the Divine wisdom; others of the second person in the Godhead: and it cannot be denied that some passages best agree to the former, and others to the latter opinion. Possibly both may be joined together, and the chapter may be understood of Christ considered partly in his personal capacity, and partly in regard of his office, which was to impart the mind and will of God to mankind."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "High place",
+      "comment": "Where she may be best seen and heard. Paths - Where many paths meet, where there is a great concourse, and where travelers may need direction."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Gates",
+      "comment": "The places of judgment, and of the confluence of people. The entry - To invite passengers at their first coming and to conduct them to her house. The doors - Of her house."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "O men",
+      "comment": "To all men without exception."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Ye simple",
+      "comment": "Who want knowledge, and experience. Fools - Wilful sinners."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "To him",
+      "comment": "Whose mind God hath enlightened. To them - That are truly wise."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "And not silver",
+      "comment": "Rather than silver."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "I dwell",
+      "comment": "My inseparable companion is prudence to govern all my actions, and to direct the actions of others. Find out - I help men to find out. Inventions - Of all ingenious contrivances for the glory of God, and for the good of men."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Wisdom",
+      "comment": "All solid and substantial and useful wisdom is assential to me."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "By me",
+      "comment": "They rule their kingdoms wisely and justly, by my counsel and assistance. Their injustice is from themselves, but all the good they do, they owe to my conduct."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "I love",
+      "comment": "I do not despise their love, but kindly accept it and recompence it with my love and favour. Early - With sincere affection and diligence, which he mentions as the evidence of their love."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Substance",
+      "comment": "Substantial happiness: opposed to all worldly enjoyments, which are but mere shadows."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Possessed me",
+      "comment": "As his son by eternal generation, before the beginning. Of old - His works of creation."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Set up",
+      "comment": "Hebrew. anointed, constituted to be the person by whom the Father resolved to do all his works, to create, to uphold and govern and judge, to redeem and save the world. From the beginning - Before which, there was nothing but a vast eternity. The earth - Which together with the heaven, was the first of God's visible works."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "No depths",
+      "comment": "No abyss or deep waters. Brought forth - Begotten of my father."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "The earth",
+      "comment": "The dry land called earth after it was separated from the waters Gen. i, 10. Fields - The plain and open parts of the earth distinguished from the mountains. Dust - Of this lower part of the world which consists of dust."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "I was there",
+      "comment": "As co-worker with my Father. Depth - Of that great abyss of water and earth mixed together, which is called both earth and water and the deep, Gen. i, 2, when he made this lower world in the form of a globe."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Strengthened",
+      "comment": "When he shut up the fountains in the cavities of the earth, and kept them there as it were by a strong band. The deep - Which have their original from the deep, either from the sea, or from the abyss of waters in the bowels of the earth."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "My delights were",
+      "comment": "To uphold them by my power and providence, to reveal myself and my Father's will to them from age to age, to assume their nature, and to redeem and save them."
+    },
+    {
+      "chapter": 8,
+      "verse_start": 34,
+      "verse_end": 34,
+      "lemma": "Waiting",
+      "comment": "As servants or clients, wait at the doors of princes or persons of eminency. Christ, under the name of wisdom invites us to his entertainment, ver. 1-6. Foretells the different successes of his invitation, ver. 7-9. Shews the fruit of fearing God, ver. 10-12. Sin, in the person of a foolish woman invites us to her entertainment, ver. 13-17. Which ends in destruction, ver. 18"
+    },
+    {
+      "chapter": 9,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Her house",
+      "comment": "For the reception of her guests. Seven - Many pillars; whereby is intimated the beauty and stability of the church. Pillars - Prophets, and apostles, and ministers."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Killed",
+      "comment": "Made provision for the guests. Mingled - With water, as they used to do in those hot countries. Furnished - With all necessaries, and now waits for the guests."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Maidens",
+      "comment": "Her servants to invite the guests, ministers of the word whom he calls maidens for the decency of the parable; for wisdom being compared to a great princess, was fit to be attended upon by maidens. Highest places - From such high seats as those from which Judges delivered their sentences, and officers made proclamations."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Simple",
+      "comment": "Ignorant, and weak."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "A former",
+      "comment": "He shews whom he meant by the foolish, ver. 6, even scorners and wicked men, and presses his last advice of forsaking them because there was no good, but hurt to be got from them."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "A scorner",
+      "comment": "An obstinate and incorrigible sinner."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "For thyself",
+      "comment": "Thou dost not profit me but thyself."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "At the door",
+      "comment": "Watching for occasions of sin."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Go right",
+      "comment": "Who are going innocently about their business."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Simple",
+      "comment": "This title is not given them by her, but by Solomon."
+    },
+    {
+      "chapter": 9,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Sweet",
+      "comment": "From the difficulty of obtaining them; and because the very prohibition renders them more grateful to corrupt nature. Here the Proverbs, properly so called, begin. They are short, but weighty sentences, most of which are two sentences in one verse, illustrating each other. But it is seldom there is any coherence between the verses, much less any thread of discourse."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Of wickedness",
+      "comment": "Such as are got by any sort of wicked practices. Death - Often from temporal, and always from eternal death."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Gathereth",
+      "comment": "The fruits of his field. In summer - In harvest. He that improved the opportunities of doing good to himself and others."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Violence",
+      "comment": "Their own violence or injustice. This may be an allusion to the ancient custom of covering the mouths and faces of condemned malefactors."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Who receive",
+      "comment": "Is ready to hear and obey the precepts of God and men. Fall - Into mischief."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Surely",
+      "comment": "Or, securely, or confidently, as the word properly signifies; quietly resting upon God's favour and gracious providence for his protections. Known - His wickedness shall be publickly discovered."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Winketh",
+      "comment": "That secretly designs mischief against others, as this phrase is used, Psalm xxxv, 19."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Wisdom",
+      "comment": "This wisdom shews itself in his speech. A rod - Rebukes from God and men."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Lay up",
+      "comment": "In their minds, to be brought forth upon fit occasions. Knowledge - Whereby they may be enabled to speak both what, and when it is seasonable. But - Fools are more forward to lay out than to lay up, and for want of knowledge speak much and foolishly, whereby they frequently bring destruction upon themselves."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Wealth",
+      "comment": "It often redeems him from dangers and calamities. Poverty - Is the cause of their ruin."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "The labour",
+      "comment": "The fruit of his labour, to the preservation of this life, and obtaining eternal life. Fruit - The fruit of all their labour tends to sin, and serves only for fuel to mens pride and luxury."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Lying lips",
+      "comment": "With flattering words. He here condemns two opposite vices, secret hatred, and manifest slander."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Is",
+      "comment": "Of great worth and use. Heart - And consequently the tongue."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Feed",
+      "comment": "By their wise discourses and counsels. Die - They have not wisdom to preserve themselves, much less to feed others."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "So",
+      "comment": "Unserviceable and vexatious."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Gladness",
+      "comment": "Shall be accomplished, and turned into enjoyment."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "The way",
+      "comment": "The way of God's precepts. Strength - Gives strength, support, and protection."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "Never be removed",
+      "comment": "They shall live happily here, and eternally in heaven. The earth - They shall not have so much as a quiet abode upon earth; much less shall they have any possession in heaven."
+    },
+    {
+      "chapter": 10,
+      "verse_start": 32,
+      "verse_end": 32,
+      "lemma": "The lips",
+      "comment": "Knowledge is here ascribed to the lips, as it is to the hands, Psalm lxxviii, 72, because they are conducted by knowledge and wisdom. Acceptable - What is truly worthy of acceptation."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "A false balance",
+      "comment": "The use of all false weights and measures in commerce."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Cometh",
+      "comment": "Into trouble."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Delivered",
+      "comment": "From the infection of the hypocrite's evil counsel."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "The blessing",
+      "comment": "Wherewith they bless the city, by their sincere prayers, and wise and wholesome counsels. The mouth - By their curses, and oaths, and blasphemies, and wicked counsels."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Despiseth",
+      "comment": "Which he shews by contemptuous or reproachful expressions. Holdeth peace - Forbears all such expressions, and silently and patiently bears those reproaches."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Secrets",
+      "comment": "Such things as were committed to his trust with a charge of secrecy."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Gracious woman",
+      "comment": "A woman endued with the grace of God. Retaineth - Or, holdeth fast her honour, or reputation."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Worketh",
+      "comment": "A work which will deceive his expectation. Soweth - That worketh it with constancy, and diligence."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Though hand join",
+      "comment": "Though they are fortified against God's judgments by a numerous issue and kindred, and friends, and by mutual and strong combinations. The seed - Not only their persons, but their children."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "So is a fair woman without discretion",
+      "comment": "\"Of beauty vain, of virtue void, What art thou in the sight of God? A slave to every base desire, A creature wallowing in the mire. Go, gaudy pageant of a day, Thy folly, with thy face display: Set all thy charms and graces out, And shew - the Jewel in thy snout!\""
+    },
+    {
+      "chapter": 11,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "The desire",
+      "comment": "The desires and expectations of the righteous shall end in their happiness, but the desires and expectations of the wicked men shall be disappointed, and end in the wrath of God."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Scattereth",
+      "comment": "That gives liberally. Increaseth - Through God's blessing upon his estate. Poverty - By God's providence secretly blasting his estate."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Fat",
+      "comment": "Shall be enriched both with temporal and spiritual blessings."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "With-holdeth corn",
+      "comment": "In a time of scarcity. Selleth - Upon reasonable terms."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Seeketh",
+      "comment": "To do good to all men. favour - With God and men."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "Troubleth",
+      "comment": "He who brings trouble upon himself and children, either by prodigality, or by restless endeavours to heap up riches. Wind - Shall be as unable to keep what he gets as a man is to hold the wind in his hand."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "The fruit",
+      "comment": "His discourses and his whole conversation, is like the fruit of the tree of life. Winneth - That gains souls to God."
+    },
+    {
+      "chapter": 11,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "Recompensed",
+      "comment": "Punished for his sins."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Lie in wait",
+      "comment": "Are designed to entrap others, and to destroy them. Deliver them - From those that lie in wait for them."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Are not",
+      "comment": "Both they and their families suddenly perish."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Despised",
+      "comment": "That lives in a mean condition. honoureth - That glories in his high birth or gay attire."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Regardeth",
+      "comment": "He will not destroy it either by labour beyond its strength, or by denying it necessary food or rest. Cruel - There is cruelty mixed even with their most merciful actions."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Tilleth",
+      "comment": "That employs his time in an honest calling. Vain persons - In an idle course of living."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Desireth",
+      "comment": "He approves those arts, which wicked men use like nets to ensnare other men. The root - That piety, which is the root of his actions, yields him sufficient fruit both for his own need, and to do good to others."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Mouth",
+      "comment": "By his pious and profitable discourses. Hands - Of his actions."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Hearkeneth",
+      "comment": "That distrusts his own judgments, and seeks counsel from others."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Covereth",
+      "comment": "The shame, or injury done to him, which he conceals and bears with patience."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Deceit",
+      "comment": "He who uses himself to lying in his common talk, will use falsehood and deceit in judgment."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Health",
+      "comment": "Tends to the comfort and benefit of others."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "A moment",
+      "comment": "Liars, though they may make a fair shew for a season, yet are quickly convicted."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Deceit",
+      "comment": "They whose hearts devise mischief shall be deceived in their hopes, and bring trouble upon themselves: but they who by good counsels labour to promote peace, shall reap the comfort of it themselves."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Concealeth",
+      "comment": "He does not unseasonably utter what he knows. Foolishness - Betrays his ignorance and folly."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "A good word",
+      "comment": "A compassionate or encouraging word."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "neighbour",
+      "comment": "Than any other men. Seduceth - Hebrew. maketh them to err, to lose that excellency or happiness which they had promised themselves."
+    },
+    {
+      "chapter": 12,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Resteth not",
+      "comment": "Does not enjoy the fruit of his labours. Precious - Yields him comfort and blessing with it."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Shall eat",
+      "comment": "Shall receive comfort, and benefit by his wise and profitable discourses."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Keepeth him",
+      "comment": "From that over-throw which befall sinners."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Maketh rich",
+      "comment": "Some men who have little or nothing, pretend to have great riches. Maketh rich - Some rich men profess to be poor."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Riches",
+      "comment": "Riches enable a man to redeem his life when it is in greatest danger, and poverty preserves a man from many injuries. Because they are cautious, that they may not provoke others; and because they are esteemed objects of pity."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "The light",
+      "comment": "The prosperity. Rejoiceth - Shines with a pleasant and constant brightness. Rejoicing is here ascribed to the light, as it is to the sun, Psalm xix, 5, metaphorically. Put out - Their felicity shall have a hidden end."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Pride",
+      "comment": "It is chiefly, pride which blows up the coals of contention. Well-advised - Who are not governed by their passions, but by prudent considerations. Wisdom - Which teaches them to avoid contention."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Vanity",
+      "comment": "By wicked practices."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Hope deferred",
+      "comment": "Delays in obtaining what a man passionately desires. The desire - The good desired. A tree of life - It is satisfactory, and reviving."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "The word",
+      "comment": "The word of God."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "The law",
+      "comment": "The instruction, or counsel; as the word law, is frequently understood in scripture."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Giveth",
+      "comment": "Makes a man acceptable to God. Rough - Offensive and hateful to God and men, as rough ways are to a traveler."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Knowledge",
+      "comment": "Considerately and discreetly. Layeth open - By his foolish actions."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "A messenger",
+      "comment": "Who is unfaithful in the execution of that which is committed to his charge. Is health - Procures benefit, as to his master, so to himself."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Sweet",
+      "comment": "Whatsoever men earnestly desire, the enjoyment of it is sweet to them; therefore sinners rejoice in the satisfaction of their sinful lusts, and abhor all restraint of them."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Evil",
+      "comment": "Punishment proportionable to their sin."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "The poor",
+      "comment": "Poor persons by their diligent labours, and God's blessing often grow rich. Destroyed - Or, consumed, brought to poverty, for want of discretion."
+    },
+    {
+      "chapter": 13,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Hateth his son",
+      "comment": "His fond affection, is as pernicious to him as hatred."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Buildeth",
+      "comment": "Maintains and improves her family and estate. Her hands - By her idleness or sin."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "A rod",
+      "comment": "His insolent speeches as they are like a rod, offensive to others, so, they make a rod for their own backs."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "The crib",
+      "comment": "The stable is empty of food for cattle, and much more for man. In the same sense cleanness of teeth is put for famine, Amos iv, 6. The strength - By their labours, or by diligence in husbandry, which then was principally managed by oxen."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Findeth it not",
+      "comment": "Because he doth not seek it aright. That understandeth - That is honest and pious."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "His way",
+      "comment": "Consists not in vain speculations, but in a diligent study of his duty, and of the way to eternal happiness. The folly - The wit of ungodly men, which is really their folly, is employed only in finding out ways of deceiving."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "favour",
+      "comment": "They find favour both with God and men."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Bitterness",
+      "comment": "The inward griefs and joys of mens hearts, are not known to any but a man's self."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Right",
+      "comment": "There are some evil courses which men may think to be lawful and good. The end - The event shews that they were sinful and destructive."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "In laughter",
+      "comment": "The outward signs of joy are often mixed with real sorrow."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "In heart",
+      "comment": "He who departs from God inwardly. Filled - With the fruit of his ways, the punishment of his sins. Satisfied - From the pious temper of his own heart, which cleaves to the Lord, he shall receive unspeakable comfort."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "The simple",
+      "comment": "A foolish man. Looketh - He orders his dealings in the world with due circumspection, not considering so much what other men say as what he ought to do."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Feareth",
+      "comment": "Trembles at God's judgments when they are either inflicted or threatened. Rageth - Frets against God; or is enraged against his messengers. Confident - Secure and insensible of his danger."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Foolishly",
+      "comment": "His passion hurries him into foolish speeches and actions. Wicked devices - One who suppresses his passion, but meditates revenge. Hated - Both by God and men."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Inherit",
+      "comment": "They possess it as their inheritance, holding it fast, and glorying in it. Knowledge - The saving knowledge of God and of their own duty."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "The evil",
+      "comment": "Good men shall have the pre-eminency over the wicked."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Hated",
+      "comment": "Despised and abandoned."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Despiseth",
+      "comment": "That does not pity and relieve the poor."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "The talk",
+      "comment": "Idle talking will bring a man to poverty."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Riches",
+      "comment": "They are a singular advantage and ornament to them. But - As for rich fools, their folly is not cured, but made worse and more manifest by their riches."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Souls",
+      "comment": "Such as are innocent, from false accusations."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "To depart",
+      "comment": "To preserve men from destructive courses."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "Exalteth",
+      "comment": "Hebrew. lifteth up, like a banner, makes it known and visible to all men."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "A sound heart",
+      "comment": "Free from envy and inordinate passions. Is life - Procures and maintains the health and vigour of the body."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "His maker",
+      "comment": "Whose image the poor man bears, by whose providence he is made poor, and who hath declared himself to be their protector and avenger."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 32,
+      "verse_end": 32,
+      "lemma": "Driven away",
+      "comment": "In his death, from God's favour and presence. Death - In his greatest dangers and distresses, yea even in death itself."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 33,
+      "verse_end": 33,
+      "lemma": "Resteth",
+      "comment": "Is laid up and hid there. In the midst - In the heart. Made known - They will publish in all times and companies."
+    },
+    {
+      "chapter": 14,
+      "verse_start": 35,
+      "verse_end": 35,
+      "lemma": "Shame",
+      "comment": "Both to himself, by his foolish management of the king's affairs, and to the king who made so foolish a choice of a servant."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Aright",
+      "comment": "Expressing what he knows prudently and gracefully. Poureth out - Plentifully, continually, and vehemently, as a fountain does waters."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Wholesome",
+      "comment": "Which utters sound and useful counsels. Tree of life - Is greatly useful to preserve the present life, and to promote the spiritual and eternal life, both of the speaker and hearers. Perverseness - False or corrupt speeches. A breach - Disturbs and wounds the spirits, both of the speaker and hearers."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Revenues",
+      "comment": "Though he may obtain great revenues, yet they are attended with much trouble."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Disperse",
+      "comment": "Freely communicate to others what they know."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Sacrifice",
+      "comment": "All the religious services, yea, the most costly; one kind being put for all the rest. Prayer - The cheapest and meanest services."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Destruction",
+      "comment": "The place of destruction, of which men know nothing but by Divine Revelation."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Foolishness",
+      "comment": "Wickedness is meat and drink to them."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Afflicted",
+      "comment": "Of the troubled in mind. Evil - Tedious and uncomfortable. Chearful - Hebrew. of a good heart."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Trouble",
+      "comment": "Tumultuous lusts and passions, vexatious cares, and horrors of conscience."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "An hedge",
+      "comment": "As a way hedged up with thorns, troublesome, perplexed, and full of difficulties. Plain - Is easy and pleasant to him, notwithstanding all its difficulties."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Counsel",
+      "comment": "When men do not seek, or will not receive advice from others."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "The answer",
+      "comment": "By a wise, or good and seasonable answer."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "The way",
+      "comment": "The way a wise man takes to obtain life, is to place his heart, and treasure, and conversation on things above."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "The proud",
+      "comment": "Of the mighty oppressors. The border - The estate, the border being often used, for the land within the borders."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Pleasant",
+      "comment": "Acceptable to God."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Troubleth",
+      "comment": "Brings God's curse upon himself and family. Gifts - Bribes given to corrupt judgment. Live - Shall preserve himself and family from ruin."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Studieth",
+      "comment": "He speaks considerately. The mouth - Not the heart; for he rashly speaks what comes into his mouth, without the direction of his heart or conscience."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "A good report",
+      "comment": "A good name. Fat - Not only chears a man for the present, but gives him such stable comfort as revives his soul, and gives vigour to his body."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "The ear",
+      "comment": "The man that hearkens to that reproof which leads to life, seeks and delights in the company of the wise."
+    },
+    {
+      "chapter": 15,
+      "verse_start": 33,
+      "verse_end": 33,
+      "lemma": "The instruction",
+      "comment": "Doth instruct men in true wisdom."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "From the Lord",
+      "comment": "Men can neither think nor speak wisely and well without Divine assistance."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Weigheth",
+      "comment": "Exactly knows as men do the things which they weigh. Spirits - The hearts of men."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Commit",
+      "comment": "Refer all thy actions and concerns to God, as the end of them, and depend upon God's providence for success. Established - Thy designs shall be brought to an happy issue."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Doth work",
+      "comment": "He orders or disposes. For - For his own glory; for the discovery of his wisdom, power, goodness, truth, justice. The wicked - Wilful and impenitent sinners. Men make themselves wicked, and God therefore makes them miserable."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "By mercy",
+      "comment": "By a merciful and just and faithful frame of heart and course of life. Is purged - As they qualify a man to offer up acceptable prayers to God for the pardon of his sins. By fear - By a filial reverence unto God. Depart - They are kept from abusing pardoning mercy, and from returning to folly or wickedness."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Deviseth",
+      "comment": "Proposes what he will do. Directeth - Over-rules and disposes all his designs and actions."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "A divine sentence",
+      "comment": "Great sagacity and piercing judgment. Of the king - Of wise kings; who only are worthy of that name and office."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "The Lord's",
+      "comment": "Are made by his direction and appointment, so that no man can alter them without violating God's rights and authority."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "A cloud",
+      "comment": "As acceptable as those clouds which bring the latter rain, whereby the fruits are filled and ripened a little before the harvest."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "The high-way",
+      "comment": "Their common road, in which they walk, tho' through frailty or temptation they slip into the bypath of sin. From evil - From the evil of sin, and consequently from the evil of punishment. Keepeth - That takes heed to walk in that high-way."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Good",
+      "comment": "He who orders his affairs with discretion."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "The wise",
+      "comment": "He who is truly wise, shall be so accounted by others. Sweetness - Eloquence added to wisdom. Increaseth - Both in himself, for while a man teaches others, he improves himself; and others, who by this means are induced to hear and receive his instructions."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "The instruction",
+      "comment": "Their most grave and serious counsels are foolish."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Teacheth",
+      "comment": "Directs him what to speak, and keeps him from speaking foolishly. Addeth - Enables him to speak learnedly and wisely."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Diggeth up",
+      "comment": "Prosecutes his evil designs with great industry. His lips - His tongue is set on fire of hell."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "Shutteth",
+      "comment": "That his thoughts may be more intent. Moving - Which is the gesture of one whose thoughts are deeply engaged."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 32,
+      "verse_end": 32,
+      "lemma": "Is better",
+      "comment": "Of a more gallant and generous spirit, and more valiant and victorious."
+    },
+    {
+      "chapter": 16,
+      "verse_start": 33,
+      "verse_end": 33,
+      "lemma": "The lot",
+      "comment": "As the ancient practice was in deciding doubtful things. The event of which though casual to men, is directed by God's providence."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "False lips",
+      "comment": "To false accusations and calumnies, which give him occasion and encouragement to do mischief."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Excellent speech",
+      "comment": "Discourse of high and excellent things."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "A precious stone",
+      "comment": "Pleasant and acceptable; and withal dazzles his eyes. Whithersoever - To whomsoever it is presented. But this, as also many of her Proverbs, are to be understood of most men, not of all."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Covereth",
+      "comment": "That conceals as far as he may, other mens faults."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Rebellion",
+      "comment": "Against God. Messenger - Or, a cruel angel, the angel of death, the devil, or some bloody men employed by God to avenge his quarrel."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Folly",
+      "comment": "In the heat of his lust or passion."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Letteth out",
+      "comment": "By cutting the bank of a river. Leave off - Avoid the occasions, and prevent the beginning of contention."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "A price",
+      "comment": "Opportunities and abilities of getting it. No heart - Neither discretion to discern the worth of wisdom, nor any sincere desire to get it."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Was born",
+      "comment": "Was sent into the world for this, that he might comfort and relieve his brother in adversity."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Friend",
+      "comment": "Debtor, for whom being his friend, he becomes surety."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "No good",
+      "comment": "Shall not get that advantage which he expects."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Doth good",
+      "comment": "Even to the body; it contributes much to bodily health and vigour. Drieth - Wastes the marrow of the bones, and the moisture and strength of the body."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "In the face",
+      "comment": "His wisdom appears even in his looks. The eyes - Minding most, those things which are remotest from him, and least concern him."
+    },
+    {
+      "chapter": 17,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "To strike",
+      "comment": "Nor to smite magistrates, either with the hand or tongue, for the execution of justice."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Desire",
+      "comment": "Thro' desire of wisdom, a man having separated himself from the company, and noise, and business of the world, seeketh and intermeddleth with all wisdom, uses all diligence, that he may search and find out all solid knowledge and true wisdom."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Understanding",
+      "comment": "In getting sound and saving, knowledge. The discovery - In uttering that folly and wickedness which is in his heart."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Cometh",
+      "comment": "Into any place or company. Contempt - He despiseth all instruction and reproof. Reproach - And he shews his contempt by ignominious and reproachful expressions."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "A man's",
+      "comment": "A wise man's. As a brook - That wisdom which is in his heart is continually pouring forth wise and good counsels."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "They go",
+      "comment": "They wound mortally."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Is brother",
+      "comment": "Though they take several paths, yet both come to one end."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "The name",
+      "comment": "The Lord, as he hath revealed himself in his works, and in his word by his promises."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Sustain",
+      "comment": "Will easily support him under any outward troubles. Wounded - Dejected with the sense of its own guilt and misery."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Parteth",
+      "comment": "Gives to every one what is right or meet."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Satisfied",
+      "comment": "Wise discourses tend to the satisfaction of the speaker, as well as to the good of the hearers."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Death and life",
+      "comment": "Are brought upon men by, the good or bad use of their tongues. Lovest - That love much talking."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "A wise",
+      "comment": "A good wife; one that deserves the name, and performs the duty of that relation. favour - Obtains her not by his own diligence, but by God's good providence."
+    },
+    {
+      "chapter": 18,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "A man",
+      "comment": "Hebrew. A man of friends; who desires the friendship of others."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Hasteth",
+      "comment": "That rashly and headily rushes into actions."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Perverteth",
+      "comment": "Blasts his designs and enterprises. Fretteth - He ascribes his unhappiness not to his own sin, but to God and his providence."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "A friend",
+      "comment": "in profession."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Brethren",
+      "comment": "His nearest relations. Hate - Despise and shun him. Pursueth - Earnestly imploring their pity."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Delight",
+      "comment": "To live in pleasure and outward glory, doth not become him, nor suit with him; because prosperity corrupts even wise men, and makes fools mad; and because it gives him more opportunity to discover his folly, and to do mischief both to himself and others."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Dropping",
+      "comment": "Are like rain continually dropping upon an house."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Casteth",
+      "comment": "Makes a man careless, and like one asleep in his business."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "His ways",
+      "comment": "The commands of God."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "While",
+      "comment": "Before custom in sin, and thy indulgence have made him incorrigible. Let not - Forbear not to give him due and necessary correction."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Great wrath",
+      "comment": "Of strong passions. Deliver - If thou forbear to punish him. Do it - Thou must deliver him again and again."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "The desire",
+      "comment": "The hearty desire of being kind is accepted by God, and should be owned by men as a real kindness. A poor man - Who is not able to give what he desires to do. A liar - Than a rich man who feeds the poor with fair promises, but doth not perform what he pretends."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Satisfied",
+      "comment": "Shall be fully contented with God's favour and blessing."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Bring it",
+      "comment": "To feed himself; he expects that the meat should drop into his mouth."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Scorner",
+      "comment": "An obstinate and impudent transgressor. Simple - Who sin thro' ignorance, being possibly drawn to it by the scorner's evil counsel or example. Reprove - A verbal reproof will be more effectual for his reformation, than the severest punishments will be to a scorner."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Wasteth",
+      "comment": "His father's estate. Chaseth - Causes her to avoid his presence, and to go from the house where he is."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Scorneth",
+      "comment": "Hath no reverence to the place of justice, nor to the presence of God there. Devoureth - Utters it with greediness and delight."
+    },
+    {
+      "chapter": 19,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "Prepared",
+      "comment": "Although they be deferred for a time, yet they are treasured up for them."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "A mocker",
+      "comment": "Wine immoderately drunk makes men mockers. Raging - Makes men full of rage."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "The fear",
+      "comment": "The terror which the wrath of a king causes."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Meddling",
+      "comment": "Is always ready to begin strife, and obstinate in the continuance of it."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Counsel",
+      "comment": "Designs of doing something of moment. Deep water - Is secret and hard to be discovered."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "His eyes",
+      "comment": "With his very looks, or by his diligent inspection into affairs."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Divers",
+      "comment": "One greater for shew and one lesser for use."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Is known",
+      "comment": "The future disposition of a man may be probably conjectured from his childish manners."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Open",
+      "comment": "Shake off sloth and betake thyself to thy employment with diligence and vigour."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "The lips",
+      "comment": "But wise speeches are of far greater worth."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Take",
+      "comment": "As a pledge, without which he ought not to be trusted. Of him - That is surety."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Established",
+      "comment": "The way to bring our purposes to good effect is to manage them with serious consideration."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Lamp",
+      "comment": "His name and memory shall utterly perish."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "His way",
+      "comment": "What the issue of his designs will be."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "A snare",
+      "comment": "It brings guilt upon him. After - After a man has made vows to inquire for ways to break them."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "The wheel",
+      "comment": "As the cart-wheel was anciently turned over the sheaves to beat the corn out of them. He punishes them as their offenses deserve."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "The spirit",
+      "comment": "The reasonable soul. The candle - Is a clear and glorious light set up in man for his information and direction. Of the Lord - So called because it comes from God in a more immediate manner than the body, Eccles xii, 7, and because it is in God's stead, to observe and judge all our actions. Searching - Discerning not only his outward actions, which are visible to others, but his most inward thoughts and affections. The belly is here put for the heart, as it is frequently."
+    },
+    {
+      "chapter": 20,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "The blueness",
+      "comment": "Grievous wounds, which make men black and blue; or severe punishments. Cleanseth - Are the means to reclaim a wicked man, and to purge out his corruption. The belly - Of the heart. Grievous wounds or stripes cleanse not only the outward man by keeping it from evil actions, but even the inward man, by expelling or subduing vile affections: which is a great and blessed benefit of afflictions."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "The kings",
+      "comment": "He names kings not to exclude other men, but because they are more arbitrary and uncontrollable than others. As rivers - Which husband-men draw by little channels into the adjacent grounds as they please."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "The plowing",
+      "comment": "Even their civil or natural actions, which in themselves are lawful, are made sinful as they are managed by ungodly men, without any regard to the glory of God, which ought to be the end of all our actions."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Hasty",
+      "comment": "Who manages his affairs rashly."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Lying tongue",
+      "comment": "By any false or deceitful words or actions. Is tossed - Is like the chaff or smoak driven away by the wind. Of them - That take those courses which will bring destruction upon them."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "The way",
+      "comment": "Of every man by nature. Strange - Estranged from God. Right - But he whose heart is pure, his conversation is agreeable to it."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Desireth",
+      "comment": "To do mischief. No favour - He spares neither friend nor foe."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "The wise",
+      "comment": "The simple learn wisdom, both from the punishment of wicked men, and from the prosperity of good men."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Considereth",
+      "comment": "He looks through its present glory to that ruin for which it is designed."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "In secret",
+      "comment": "Which makes it more acceptable. In the bosom - Secretly conveyed into the bosom."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Shall remain",
+      "comment": "Shall, without repentance, be condemned to eternal death."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Wine and oil",
+      "comment": "Delicious fare and luxurious feasting. Wine and oil were much used in feasts in those parts."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "A ransom",
+      "comment": "The wicked shall be brought into those troubles, which were designed by wicked men for the righteous: thus Haman was a ransom for Mordecai."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "The wise",
+      "comment": "Wise men lay up desirable treasures for their own use, and for their families. Oil is particularly mentioned, because that was a considerable part of their wealth and treasures in those countries."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "The strength",
+      "comment": "The strongest sorts to which the citizens trust."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Killeth",
+      "comment": "Torments him to death, while he passionately desires what he sees, he shall not enjoy, and will not take pains to procure."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Coveteth",
+      "comment": "Spends his whole time in vain and lazy desires. Giveth - By God's blessing upon his industry he procures enough, not only for his own support, but for the relief of others."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "The sacrifice",
+      "comment": "All the most costly services which they offer to God. Because - As all the ancient translators render it, the Hebrew particle, aph, being expletive: or, even because; so the following clause gives the reason. A wicked mind - Not in obedience to God's command, but either to cover, or countenance, or promote some wicked design."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Heareth",
+      "comment": "He witnesses nothing but what he has heard or seen. Constantly - Always affirms the same thing."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "Hardeneth",
+      "comment": "Continues in evil with obstinacy and impudence. Directs - He orders his steps aright."
+    },
+    {
+      "chapter": 21,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "The horse",
+      "comment": "Under which all war-like provisions are comprehended."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "favour",
+      "comment": "A good report among men, especially good men, and that hearty kindness which attends it."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Meet",
+      "comment": "They live together, and need one another. The maker - Not only as they are men, but as they are poor or rich, which difference comes from God's providence. They have one common creator, and Lord, and judge, and the one cannot despise nor grudge at the other without reflecting upon God."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "The evil",
+      "comment": "The judgment of God threatened, and approaching. Hideth - Retires to his strong tower, by prayer and repentance, puts himself under the protection of the almighty. Pass on - Carefully and securely."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Depart",
+      "comment": "Not easily and ordinarily."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "Is servant",
+      "comment": "Is at his mercy, and forced to comply with his pleasure."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "The rod",
+      "comment": "That power which he used with fury shall be taken from him."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "He",
+      "comment": "Who looks upon the wants and miseries of others with compassion."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Preserve",
+      "comment": "God by the watchful eye of his providence maintains and defends. Knowledge - Men of knowledge, knowing and good men. The matters - All his hopes, enterprizes, and concerns."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "The mouth",
+      "comment": "Her fair and flattering speeches."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Bound",
+      "comment": "Is fixed and settled there, as being born with him, and rooted in his very nature."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "That giveth",
+      "comment": "That prodigally casts away his estate upon those who do not need it."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "My knowledge",
+      "comment": "The knowledge of God, which I am here delivering."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Fitted",
+      "comment": "Fitly expressed: thou wilt be able to discourse profitably of them."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "In counsels and knowledge",
+      "comment": "In counsels which proceed from found knowledge."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Answer",
+      "comment": "That thou mayst be able to give solid, and satisfactory answers."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "In the gate",
+      "comment": "Under pretense of justice."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Spoil the soul",
+      "comment": "Take away not only their goods but their lives too."
+    },
+    {
+      "chapter": 22,
+      "verse_start": 29,
+      "verse_end": 29,
+      "lemma": "Before kings",
+      "comment": "He is fit to be employed in the affairs of princes."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Ruler",
+      "comment": "With a great man."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Put a knife",
+      "comment": "Restrain thine appetite, as if a man stood with a knife at thy throat."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Deceitful",
+      "comment": "They do not yield thee that satisfaction which thou didst expect from them."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Thine own wisdom",
+      "comment": "From worldly wisdom, which persuades men to use all possible means to get riches."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Set thine eyes",
+      "comment": "Look upon it with earnestness and desire. Is not - Which has no solid and settled being. Eagle - Swiftly, strongly, and irrecoverably."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Evil eye",
+      "comment": "Of the envious or covetous man."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "So is he",
+      "comment": "You are not to judge of him by his words, but by the constant temper of his mind."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Vomit up",
+      "comment": "When thou perceivest his churlish disposition, his meat will be loathsome to thee. Sweet words - Thy pleasant discourse wherewith thou didst design to delight and profit him."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Of a fool",
+      "comment": "Cast not away good counsels upon incorrigible sinners."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Enter not",
+      "comment": "To possess their lands."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Redeemer",
+      "comment": "Hebrew. their near kinsman, to whom it belongs to avenge their wrongs, and to recover and maintain their rights."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Shall not die",
+      "comment": "It is a likely way to prevent his destruction."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "My reins",
+      "comment": "I shall rejoice with all my soul."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "An end",
+      "comment": "An expected and happy end for such as fear God."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "Guide",
+      "comment": "Order the whole course of thine affections and actions. In the way - In God's way."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Buy",
+      "comment": "Purchase it upon any terms, spare no pains or cost. Truth - The true and saving knowledge of God's will. Sell it not - Do not forsake it for any worldly advantage."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Give me",
+      "comment": "Solomon here speaks in God's name."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "Mixt wine",
+      "comment": "Either mixed with water, or with other ingredients to make it strong and delicious."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "Red",
+      "comment": "Which was the colour of the best wines in that country. Aright - When it sparkles, and seems to smile upon a man."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 34,
+      "verse_end": 34,
+      "lemma": "Lieth down",
+      "comment": "To sleep. Sea - In a ship in the midst of the sea."
+    },
+    {
+      "chapter": 23,
+      "verse_start": 35,
+      "verse_end": 35,
+      "lemma": "Sick",
+      "comment": "I was not sensible of it. Again - At present my condition requires sleep to settle myself, and when I am composed, I purpose to return to my former course."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Destruction",
+      "comment": "How they may oppress and destroy others."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Through wisdom",
+      "comment": "There is no need that thou shouldest raise thy family by ruining others, which thou mayest more effectually do by wisdom."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "By knowledge",
+      "comment": "Which in scripture phrase includes the love and practice of what we know."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Is strong",
+      "comment": "Is courageous and resolute, and able by wisdom to do greater things than others can accomplish by strength."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Thy war",
+      "comment": "War is better managed by wisdom than by strength."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "A fool",
+      "comment": "For a wicked man, whose sins enfeeble his mind, and make it incapable of wisdom. Openeth not - He knows not how to speak acceptably, and profitably in the publick assembly."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Shall be called",
+      "comment": "Though he cover his wicked devices with fair pretenses, he shall be branded with that infamy which is due to him."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "The thought",
+      "comment": "The very inward thought or contrivance of evil, is a sin in God's sight."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Deliver",
+      "comment": "When it is in thy power. Drawn - By the violence of lawless men."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Consider",
+      "comment": "That this is only a frivolous excuse."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Eat",
+      "comment": "This is not a command, but a concession, and is only here expressed to illustrate the following verse. Honey in those parts was an usual food."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "A reward",
+      "comment": "It is not only sweet for the present, but brings a sure and everlasting reward."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Falleth",
+      "comment": "Into calamities, of which he evidently speaks both in the foregoing verse, and in the following branch of this verse. Fall - Frequently into irrecoverable destruction."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Falleth",
+      "comment": "Into mischief."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "From him",
+      "comment": "Understand, upon thee, which is implied in the Hebrew phrase."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "No reward",
+      "comment": "All his happiness shall quickly and eternally perish. The candle - All their comfort and glory shall cease."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "To change",
+      "comment": "That are unstable in their obedience to God or to the king."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Who knoweth",
+      "comment": "Who can conceive how sore and sudden will be the ruin of them that fear not God, and the king."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "These",
+      "comment": "The counsels following, to the end of the chapter, no less than those hitherto mentioned, are worthy of their consideration."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Rebuke",
+      "comment": "That publickly and judicially rebuke and condemn the wicked. Delight - The peace of a good conscience."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Shall kiss",
+      "comment": "Shall respect him. A right answer - That speaks pertinently and plainly, and truly."
+    },
+    {
+      "chapter": 24,
+      "verse_start": 32,
+      "verse_end": 32,
+      "lemma": "Received",
+      "comment": "I learned wisdom by his folly."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "These",
+      "comment": "Which are contained in this and the following chapters. The men - Certain persons appointed by Hezekiah for that work. Many of them are political precepts, and such as in a special manner concerned Hezekiah, and other princes, for the conduct of their house and kingdom. Copied - Out of the historical records which were then extant."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "The glory",
+      "comment": "It is agreeable to the nature of God; it is a testimony of his infinite wisdom, and of his absolute power and sovereignty. To conceal - To keep his counsels, and the reasons of his actions in his own breast. Search out - To communicate their counsels to others, that so they may search and find out the right way."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "The heart",
+      "comment": "Though wise kings will search out other men, yet their inward thoughts and purposes are hardly discoverable."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Take away",
+      "comment": "Then, and not 'till then it is fit for that use."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Stand not",
+      "comment": "Do not affect frequent and familiar society with greater persons than thyself."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Debate",
+      "comment": "If thou hast any quarrel with him, first try to compose it by private discourse with him. Discover not - Let not heat of contention provoke thee to divulge any of his secrets committed to thy trust."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Lest he",
+      "comment": "Reproach thee for thy gross violation of the laws of prudence, justice and friendship."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Of silver",
+      "comment": "Which it seems was usual in those times, and was grateful to the eye for the beauty and variety both of the colours and figures, the golden apples appearing through net-work of silver. 13. Cold of snow - As drink cooled with ice or snow, as is usual in hot countries."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Boasteth",
+      "comment": "Promising what he never intends to give. Is like - Like empty clouds carried about with wind, and not affording that rain which they promise."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Forbearing",
+      "comment": "By patient submission and expectation. Breaketh - Softens the hardest heart."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Honey",
+      "comment": "By honey he understands, not only all delicious meats, but all worldly delights, which we are here taught to use with moderation."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Withdraw",
+      "comment": "Visit him not too frequently."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "A sword",
+      "comment": "Is as cruel and pernicious as any instrument of death."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "As vinegar",
+      "comment": "Which dissolves the nitre, and makes it useless and ineffectual."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Bread",
+      "comment": "By bread and water he understands all things necessary for his subsistence."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "For",
+      "comment": "In so doing, which words are expressed Rom. xii, 20, where this text is quoted. Thou shalt melt him into repentance, and love."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "So",
+      "comment": "Because it comes more rarely and difficultly, after it hath been long expected."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Falling",
+      "comment": "When righteous men are oppressed by the wicked, the state of that common-wealth is as deplorable, as if the publick fountains were corrupted."
+    },
+    {
+      "chapter": 25,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Not good",
+      "comment": "For health. To search - Industriously to seek for applause. Is not - Is not only sinful, but shameful also."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "By flying",
+      "comment": "Secures itself from the fowler. Not come - Upon the innocent person, but he shall escape from it like a bird."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "According",
+      "comment": "So as to imitate his folly, by passionate or reproachful speeches."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "According",
+      "comment": "So as his folly needs and requires, convincing him strongly, reproving him sharply, and exposing him to just shame."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Cutteth off the feet",
+      "comment": "Of his messenger; bids one go that wants legs. Drinketh - Drinking, in scripture, frequently denotes the plentiful doing or receiving of any thing."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "The legs",
+      "comment": "Hebrew. the legs of the lame are lifted up, in going, or in dancing, which is done with great inequality and uncomeliness. So - No less incident are wise and pious speeches from a foolish and ungodly man."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Bindeth",
+      "comment": "Whereby he hinders his own design of throwing the stone out of it. So - No less absurd is he that giveth to a fool that honour which he is not capable of using aright."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "A thorn",
+      "comment": "As a thorn is in a drunkard's hand, which he cannot manage cautiously, but employs to his own and others hurt. So - As unprofitable, and, by accident, hurtful to himself and others."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Rewardeth",
+      "comment": "Will certainly give that recompence which is deserved by fools and transgressors, by such as sin either thro' ignorance, or wilfully."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Turneth",
+      "comment": "Moving hither and thither upon it, but not removing from its place."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "A reason",
+      "comment": "A satisfactory reason of ail their actions."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "He",
+      "comment": "Who is going upon the way. With strife - In which he is not concerned, nor any way obliged to meddle. That taketh - Exposes himself to needless hazard."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "And death",
+      "comment": "Any instruments of death."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Burning",
+      "comment": "With malice or hatred: A slanderous or evil tongue. Dross - Such a tongue and heart are of no real worth, although sometimes they make a shew of it, as dross does of silver. 26. Deceit - With false professions of love."
+    },
+    {
+      "chapter": 26,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Rolleth",
+      "comment": "Up the hill with design to do mischief to some person."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Boast not",
+      "comment": "Of any good thing which thou purposeth to do, or hopest to receive tomorrow, or hereafter. Knowest not - What may happen in the space of one day. The day is said to bring forth, what God by his almighty power either causes or suffers to be brought forth or done in it."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Heavier",
+      "comment": "More grievous, being without cause, without measure, and without end."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Open",
+      "comment": "When it is needful, in which case, though it put a man to some shame yet it doth him good. Better - More desirable and beneficial. Secret love - Which does not shew itself by friendly actions, and particularly by free and faithful reproof."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Wounds",
+      "comment": "The sharpest reproofs. Kisses - All the outward profession of friendship."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Wandereth",
+      "comment": "That flies from place to place, whereby she is exposed to all the arts of fowlers, and to birds of prey. So - So is he who through vanity or lightness changes his abode, or his calling."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Neither go",
+      "comment": "For comfort and relief, so as to forsake thy friend for him. A neighbour - The friend, who hath shewed himself to be a good neighbour. Near - In affection."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Reproacheth",
+      "comment": "For being the father of a wicked son."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Blesseth",
+      "comment": "That praises him to his face. A loud voice - That both he, and others, may be sure to take notice of it. Rising early - To shew his great forwardness. A curse - His friend will value this kind of blessing no more than a curse."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Hideth",
+      "comment": "Attempts to smother her passion. Right-hand - Which being the great instrument of action, by its much stirring, diffuses the savour of it."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Iron",
+      "comment": "Iron tools are made sharp and fit for use, by rubbing them against the file, or some other iron. The countenance - The company or conversation of his friend."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "So he",
+      "comment": "That serves him faithfully, prudently, and diligently."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "So",
+      "comment": "So one man resembles another in the corruption of his nature."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Hell",
+      "comment": "The grave devours all the bodies which are put into it, and is always ready to receive and devour more. The eyes - The desires, which discover themselves by the eyes."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "To his praise",
+      "comment": "Or, according to his praise. So a man is tried by praise."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "Flock",
+      "comment": "Flocks and herds are here put for all possessions, because anciently they were the chief part of a man's riches."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "For",
+      "comment": "What thou dost now possess, will not last always. If a man had the wealth of a kingdom, without care and diligence it would be brought to nothing."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "The hay",
+      "comment": "Another encouragement to diligence; God invites thee to it by the plentiful provisions wherewith he has enriched the earth for thy sake. The mountains - Even the most barren parts afford thee their help."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "The price",
+      "comment": "By the sale whereof thou mayest either pay the rent of the field which thou hirest, or purchase fields or lands. Goats might better be spared and sold than sheep, which brought a more constant profit to the owner."
+    },
+    {
+      "chapter": 27,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Goat's milk",
+      "comment": "Or, if thou chusest rather to keep thy goats, the milk will serve thee for food to thyself and family. In ancient times men used a plain and simple diet."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "But",
+      "comment": "By a wise and good prince."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "It like",
+      "comment": "Is like a violent rain or flood, which washes away the very seeds in the earth. He is the worst of all oppressors."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Contend",
+      "comment": "Are so far from praising them, that they severely reprove them."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Judgment",
+      "comment": "What is just and right. All things - Which are necessary to be known by them."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Better",
+      "comment": "In a much happier condition."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Causeth",
+      "comment": "That by evil counsel, or example, or artifice, draws them into evil."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Rejoice",
+      "comment": "Are promoted. Glory - In that common-wealth. Rise - Are advanced to authority. Hidden - Wise and good men, who only are worthy of the name of men, withdraw themselves into obscure places."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Alway",
+      "comment": "In all times, companies, and conditions."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Oppressor",
+      "comment": "The tyranny of a prince, is a manifest sign of folly. Prolong - By God's favour, the peace and satisfaction of his own mind, and the hearty love of his people."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Violence",
+      "comment": "That sheddeth any man's blood. Shall flee - Shall speedily be destroyed. Shall slay - None should desire or endeavour to save him from his deserved punishment."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "At once",
+      "comment": "Once for all; so he shall never rise more."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Faithful",
+      "comment": "Who deals truly and justly in all his transactions."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "For",
+      "comment": "When a man hath once accustomed himself to take bribes, a very small advantage will make him sell justice."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Evil eye",
+      "comment": "Is uncharitable to persons in want, and envious to those who get any thing besides him. Poverty - And consequently that he shall need the pity and help of others."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "The same",
+      "comment": "Is a thief and robber."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Fat",
+      "comment": "Shall live happily and comfortably."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Wisely",
+      "comment": "Distrusting his own judgment, and seeking the advice of others, and especially of God."
+    },
+    {
+      "chapter": 28,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Men",
+      "comment": "Righteous men are afraid to appear publickly."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Judgment",
+      "comment": "By the free and impartial exercise of justice. Gifts - Bribes."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Wrath",
+      "comment": "The wrath of God or of men, who were enraged against it."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Whether",
+      "comment": "Whether he, the wise man, deal sharply with him, or mildly, there is no rest, no end or fruit of the debate."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Seek",
+      "comment": "To preserve it."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Left",
+      "comment": "Suffered to follow his own will without restraint and chastening."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "No vision",
+      "comment": "No prophecy; no publick preaching of God's word."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "A servant",
+      "comment": "Who is so not only in condition, but also in the temper of his mind, disingenuous, and stubborn. Words - By mere words. Tho' - Though he know thy mind, and his own duty."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Hasty",
+      "comment": "Who is rash and heady in the management of his affairs."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Delicately",
+      "comment": "Allowing him too much freedom, and familiarity. A son - Will find him at last grow insolent, and forgetful of his servile condition."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Bewrayeth it not",
+      "comment": "Which he is bound to do for the publick good."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "A snare",
+      "comment": "Is an occasion of many sins."
+    },
+    {
+      "chapter": 29,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Judgment",
+      "comment": "The decision of his cause, and the success of all his endeavours."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Jakeh",
+      "comment": "Who lived either in Solomon's time, or rather afterwards, and was famous in his generation for wisdom and piety. The prophecy - The prophetical instruction; for as the prophets were public preachers as well as foretellers of things to come, so their sermons, no less than their predictions, are commonly called their prophecies. And Ucal - Two friends and co-temporaries of Agur, who desired his instructions."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "Surely",
+      "comment": "This he utters from a modest and humble apprehension of his own ignorance."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "I neither learned",
+      "comment": "I have not been taught in the schools of wisdom. Of the holy - Of the holy prophets. I have not such Divine inspirations as prophets strictly so called have received."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "Who",
+      "comment": "What mere man? None at all. Ascended - To learn the mind of God who dwells there. Descended - To teach men below what he had learned above. No man can fully know and teach us these things unless he hath been in heaven, and sent down from thence to the earth for that end. In his fists - To hold them in, or let them out at his pleasure? And none but he who made and governs all creatures, can know and teach these things. The waters - Those above the clouds, and those below, the sea which God keeps as it were within doors, and the water which he shuts up in the bowels of the earth. The earth - The whole earth from one end to another, which God upholdeth in the air, by the word of his power. If - If thou thinkest there be any man who can do these things, produce his name; or if he be dead, the name of any of his posterity."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Pure",
+      "comment": "You must not expect the full knowledge of Divine mysteries from me, nor from any man, but from the word of God."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "Vanity",
+      "comment": "All vanity of heart and life; a vain conversation, or a love of the vain things of this world. Lies - All falsehood and deceit in my words and carriage. Convenient - Moderate and suitable both to my natural necessities, and to that condition of life in which thou hast put me."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "Deny thee",
+      "comment": "By trusting to riches, which is a denial of God, and by unthankfulness for, and abuse of his mercies. Who is the Lord - That I should serve him. Lest I take - Use false oaths either to vindicate myself when I am suspected, or to gratify others, as poor men frequently do."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "Accuse not",
+      "comment": "Without sufficient cause: for otherwise, in some cases this may be a duty. Curse thee - Desire God to punish thee. Guilty - By God, who is ready to plead the cause of the afflicted."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "A generation",
+      "comment": "A sort of men."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "Not washed",
+      "comment": "Who imagine they are truly religious, when they live in a course of wickedness."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Devour",
+      "comment": "Extortioners, and cruel oppressors."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "The horse-leach",
+      "comment": "An insatiable creature, sucking blood 'till it is ready to burst. Two daughters - The following things resemble the horse-leach in its insatiableness; nothing being more ordinary than to call those persons or things the sons or daughters of those whose examples they imitate. Three - Though he begins with two, yet he proceeds from thence to three, and four, all which are said to be the daughters of the horse-leach."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "The eye",
+      "comment": "He that scorneth or derideth his parents, tho' it be but with a look or gesture, and much more when he breaks out into opprobrious words and actions."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Wonderful",
+      "comment": "The way whereof I cannot trace."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 20,
+      "verse_end": 20,
+      "lemma": "Such is",
+      "comment": "So secret and undiscernible. Eateth - The bread of deceit in secret."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Four",
+      "comment": "Which are intolerable in human societies."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "A servant",
+      "comment": "For such an one is commonly ignorant, and therefore commits many errors; he is poor, and therefore insatiable, he is proud and imperious, and usually injurious and cruel. A fool - A conceited fool. When - When he abounds in wealth."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "An odious",
+      "comment": "Proud, and perverse. Married - For then she displays all those ill humours, which before, she concealed. Is heir - Which great and sudden change transports her beside herself, and makes her insufferably proud and scornful."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Bands",
+      "comment": "Several companies, in exact order."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 28,
+      "verse_end": 28,
+      "lemma": "Hands",
+      "comment": "With her legs, which he calls hands, because they serve her for the same use, to do her work, to weave her web, and to catch gnats or flies. Palaces - Is not only in poor cottages, but many times in palaces also."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "An he-goat",
+      "comment": "Which marches in the head of the flock in a grave and stately manner, conducting them with great courage and resolution, and being ready to fight for them, either with beasts or men that oppose him. A king - Hebrew. a king and his people with him, a king when he hath the hearts and hands of his people going along with him in his undertakings."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 32,
+      "verse_end": 32,
+      "lemma": "Thought",
+      "comment": "Designed any injury against thy neighbour. Lay thine hand - Do not open thy mouth to excuse it, but repent of it, and do so no more."
+    },
+    {
+      "chapter": 30,
+      "verse_start": 33,
+      "verse_end": 33,
+      "lemma": "The forcing",
+      "comment": "The stirring up of wrath, either in a man's self towards others, by giving way to passion; or in others by reproaches, or any other provocations. Bringeth forth - Is the cause of many quarrels. An exhortation to Lemuel, ver. 1-9. A description of good wife, ver. 10-31."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "Lemuel",
+      "comment": "Of Solomon, by the general consent both of Jewish and Christian writers; this name signifies one from God, or belonging to God, and such an one was Solomon eminently, being given by God to David and Bathsheba, as a pledge of his reconciliation to them after their repentance. Possibly his mother gave him this name to mind him of his great obligations to God, and of the justice of his devoting himself to God's service."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 2,
+      "verse_end": 2,
+      "lemma": "What",
+      "comment": "A short speech, arguing her great passion for him; what words shall I take? What counsels shall I give thee? My heart is full, but where shall I begin? Of my womb - My son, not by adoption, but whom I bare in the womb, and therefore it is my duty to give thee admonitions, and thine to receive them. My vows - On whose behalf I have made many prayers and sacrifices, and solemn vows to God; whom I have, as far as in me lay, devoted to the work, and service, and glory of God."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "Strength",
+      "comment": "The vigour of thy mind and body. Ways - Thy conversation, repeated in other words."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "To drink",
+      "comment": "To excess."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "To perish",
+      "comment": "To faint; for such need a cordial."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "The dumb",
+      "comment": "For such as cannot speak in their own cause, either through ignorance, or because of the dread of their more potent adversaries. Destruction - Who, without such succor from the Judges, are like to be utterly ruined."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "A virtuous woman",
+      "comment": "Here he lays down several qualifications of an excellent wife, which are delivered in alphabetical order, each verse beginning with a several letter of the Hebrew alphabet."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "No need",
+      "comment": "He shall have no need to use indirect courses to get wealth."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 13,
+      "verse_end": 13,
+      "lemma": "Flax",
+      "comment": "That she may find employment for her servants. Worketh - She encourages them to work by her example; which was a common practice among princesses in those first ages. Not that it is the duty of kings and queens to use manual operations, but it is the duty of all persons, the greatest not excepted, to improve all their talents, and particularly their time, which is one of the noblest of them, to the service of that God to whom they must give an account, and to the good of that community to which they are related."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "From afar",
+      "comment": "By the sale of her home-spun commodities she purchases the choicest goods which come from far countries."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 15,
+      "verse_end": 15,
+      "lemma": "Giveth",
+      "comment": "Distributes all necessary provisions."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 16,
+      "verse_end": 16,
+      "lemma": "Considereth",
+      "comment": "Whether it be fit for her use. The fruit - With the effects of her diligence. Planteth - She improves the land to the best advantage."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 17,
+      "verse_end": 17,
+      "lemma": "Girdeth",
+      "comment": "She uses great diligence and expedition in her employment; for which end, men in those times used to gird up their long and loose garments about their loins. Strengtheneth - Puts forth her utmost strength in her business."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 18,
+      "verse_end": 18,
+      "lemma": "Perceiveth",
+      "comment": "She finds great comfort in her labours. Her candle - Which is not to be taken strictly, but only signifies her unwearied care and industry."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 19,
+      "verse_end": 19,
+      "lemma": "She layeth",
+      "comment": "By her own example she provokes her servants to labour. And although in these latter and more delicate times, such mean employments are grown out of fashion among great persons, yet they were not so in former ages, neither in other countries, nor in this land; whence all women unmarried unto this day are called in the language of our law, Spinsters."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 21,
+      "verse_end": 21,
+      "lemma": "Not afraid",
+      "comment": "Of any injuries of the weather. Are clothed - She hath provided enough, not only for their necessity, but also for their delight and ornament."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 22,
+      "verse_end": 22,
+      "lemma": "Tapestry",
+      "comment": "For the furniture of her house. Silk - Which was agreeable to her high quality."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 23,
+      "verse_end": 23,
+      "lemma": "It known",
+      "comment": "Observed and respected, not only for his own worth, but for his wife's sake. Sitteth - In counsel or judgment."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 24,
+      "verse_end": 24,
+      "lemma": "Girdles",
+      "comment": "Curiously wrought of linen, and gold, or other precious materials."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 25,
+      "verse_end": 25,
+      "lemma": "Strength",
+      "comment": "Strength of mind, magnanimity, courage, activity. Her clothing - Her ornament and glory. Rejoice - She lives in constant tranquillity of mind, from a just confidence in God's gracious providence."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 26,
+      "verse_end": 26,
+      "lemma": "Openeth her mouth",
+      "comment": "She is neither sullenly silent, nor full of impertinent talk, but speaks discreetly and piously, as occasion offers. In her tongue - Her speeches are guided by wisdom and grace, and not by inordinate passions. And this practice is called a law in her tongue, because it is constant and customary, and proceeds from an inward and powerful principle of true wisdom."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 27,
+      "verse_end": 27,
+      "lemma": "Looketh well",
+      "comment": "She diligently observes the management of her domestick business, and the whole carriage of her children and servants."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 30,
+      "verse_end": 30,
+      "lemma": "favour",
+      "comment": "Comeliness, which commonly gives women favour with those who behold them. Deceitful - It gives a false representation of the person, being often a cover to a deformed soul; it does not give a man that satisfaction, which at first he promised to himself from it; and it is soon lost, not only by death, but by many diseases and contingencies."
+    },
+    {
+      "chapter": 31,
+      "verse_start": 31,
+      "verse_end": 31,
+      "lemma": "Give her",
+      "comment": "It is but just, that she should enjoy those praises which her labours deserve. Let her works - If men be silent, the lasting effects of her prudence and diligence will trumpet forth her praises. In the gates - In the most publick and solemn assemblies."
+    }
+  ]
+}

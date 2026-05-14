@@ -1,0 +1,93 @@
+{
+  "slug": "3john",
+  "name": "3 John",
+  "testament": "NT",
+  "header": "THE THIRD EPISTLE OF ST. JOHN",
+  "intro": "THE third epistle has likewise three parts:\n\nI. The inscription, 1, 2\n\nII. The commendation of Caius, 3-8 With a caution against Diotrephes 9-11 And a recommendation of Demetrius, 12\n\nIII. The conclusion, 13-15\n\n3rd JOHN",
+  "notes": [
+    {
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 1,
+      "lemma": "",
+      "comment": "Caius was probably that Caius of Corinth whom St. Paul mentions, Rom. xvi, 23. If so, either he was removed from Achaia into Asia, or St. John sent this letter to Corinth."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 3,
+      "verse_end": 3,
+      "lemma": "For",
+      "comment": "I know thou usest all thy talents to his glory. The truth that is in thee - The true faith and love."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 4,
+      "verse_end": 4,
+      "lemma": "I have no greater joy than this",
+      "comment": "Such is the spirit of every true Christian pastor. To hear that my children walk in the truth - Caius probably was converted by St. Paul. Therefore when St. John speaks of him. with other believers, as his children, it may be considered as the tender style of paternal love, whoever were the instruments of their conversion. And his using this appellation, when writing under the character of the elder, has its peculiar beauty."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 5,
+      "verse_end": 5,
+      "lemma": "Faithfully",
+      "comment": "Uprightly and sincerely."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 6,
+      "verse_end": 6,
+      "lemma": "Who have testified of thy love before the church",
+      "comment": "The congregation with whom I now reside. Whom if thou send forward on their journey - Supplied with what is needful. Thou shalt do well - How tenderly does the apostle enjoin this!"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 7,
+      "verse_end": 7,
+      "lemma": "They went forth",
+      "comment": "To preach the gospel."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 8,
+      "verse_end": 8,
+      "lemma": "To receive",
+      "comment": "With all kindness. The truth - Which they preach."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 9,
+      "verse_end": 9,
+      "lemma": "I wrote to the church",
+      "comment": "Probably that to which they came. But Diotrephes - Perhaps the pastor of it. Who loveth to have the preeminence among them - To govern all things according to his own will. Receiveth us not - Neither them nor me. So did the mystery of iniquity already work!"
+    },
+    {
+      "chapter": 1,
+      "verse_start": 10,
+      "verse_end": 10,
+      "lemma": "He prateth against us",
+      "comment": "Both them and me, thereby endeavouring to excuse himself."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 11,
+      "verse_end": 11,
+      "lemma": "Follow not that which is evil",
+      "comment": "In Diotrephes. But that which is good - In Demetrius. He hath not seen God - Is a stranger to him."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 12,
+      "verse_end": 12,
+      "lemma": "And from the truth itself",
+      "comment": "That is, what they testify is the very truth. Yea, we also bear testimony - I and they that are with me."
+    },
+    {
+      "chapter": 1,
+      "verse_start": 14,
+      "verse_end": 14,
+      "lemma": "Salute the friends by name",
+      "comment": "That is, in the same manner as if I had named them one by one. The word friend does not often occur in the New Testament, being swallowed up in the more endearing one of brother."
+    }
+  ]
+}
