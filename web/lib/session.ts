@@ -27,19 +27,33 @@ function b64url(bytes: Uint8Array): string {
   return btoa(s).replace(/=+$/, "").replace(/\+/g, "-").replace(/\//g, "_");
 }
 
-function b64urlDecode(str: string): Uint8Array {
+// Encode bytes to an ArrayBuffer-backed view that satisfies Web Crypto's
+// strict BufferSource type (TextEncoder/atob produce Uint8Array<ArrayBufferLike>
+// which TS rejects when SharedArrayBuffer is in scope).
+function bytes(s: string): ArrayBuffer {
+  const buf = new ArrayBuffer(s.length);
+  const view = new Uint8Array(buf);
+  for (let i = 0; i < s.length; i++) view[i] = s.charCodeAt(i);
+  return buf;
+}
+
+function utf8(s: string): ArrayBuffer {
+  const u = new TextEncoder().encode(s);
+  const buf = new ArrayBuffer(u.byteLength);
+  new Uint8Array(buf).set(u);
+  return buf;
+}
+
+function b64urlDecode(str: string): ArrayBuffer {
   const pad = str.length % 4 ? "=".repeat(4 - (str.length % 4)) : "";
   const b64 = str.replace(/-/g, "+").replace(/_/g, "/") + pad;
-  const bin = atob(b64);
-  const out = new Uint8Array(bin.length);
-  for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
-  return out;
+  return bytes(atob(b64));
 }
 
 async function hmacKey(): Promise<CryptoKey> {
   return crypto.subtle.importKey(
     "raw",
-    new TextEncoder().encode(getSecret()),
+    utf8(getSecret()),
     { name: "HMAC", hash: "SHA-256" },
     false,
     ["sign", "verify"],
@@ -47,10 +61,9 @@ async function hmacKey(): Promise<CryptoKey> {
 }
 
 export async function encodeSession(p: SessionPayload): Promise<string> {
-  const json = new TextEncoder().encode(JSON.stringify(p));
-  const payload = b64url(json);
+  const payload = b64url(new Uint8Array(utf8(JSON.stringify(p))));
   const sig = new Uint8Array(
-    await crypto.subtle.sign("HMAC", await hmacKey(), new TextEncoder().encode(payload)),
+    await crypto.subtle.sign("HMAC", await hmacKey(), utf8(payload)),
   );
   return `${payload}.${b64url(sig)}`;
 }
@@ -65,14 +78,16 @@ export async function decodeSession(token: string | undefined): Promise<SessionP
       "HMAC",
       await hmacKey(),
       b64urlDecode(sigStr),
-      new TextEncoder().encode(payload),
+      utf8(payload),
     );
   } catch {
     return null;
   }
   if (!valid) return null;
   try {
-    const data = JSON.parse(new TextDecoder().decode(b64urlDecode(payload))) as SessionPayload;
+    const data = JSON.parse(
+      new TextDecoder().decode(b64urlDecode(payload)),
+    ) as SessionPayload;
     if (data.expires_at && data.expires_at < Math.floor(Date.now() / 1000)) return null;
     return data;
   } catch {
