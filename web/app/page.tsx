@@ -23,6 +23,20 @@ export default async function Home() {
           The four Gospels are free to read. The rest of the Bible is available
           to <a className="underline" href="https://patreon.com/historyofmethodism">Patreon supporters</a>.
         </p>
+        <form action="/search" method="get" className="mt-6 flex gap-2 max-w-xl">
+          <input
+            type="text"
+            name="q"
+            placeholder="John 1:1-5, perfect love, repent…"
+            className="flex-1 rounded border border-stone-300 px-3 py-2 text-base focus:outline-none focus:ring-2 focus:ring-amber-200"
+          />
+          <button
+            type="submit"
+            className="rounded bg-stone-800 text-white px-4 py-2 text-sm hover:bg-stone-900"
+          >
+            Search
+          </button>
+        </form>
       </section>
 
       <section className="mb-14 max-w-3xl border-l-2 border-stone-200 pl-6">

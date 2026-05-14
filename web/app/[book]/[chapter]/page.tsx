@@ -84,7 +84,8 @@ export default async function ChapterPage({
           return (
             <div
               key={v.verse}
-              className="contents md:[&>*]:py-2 md:[&>*]:border-b md:[&>*]:border-stone-100"
+              id={`v${v.verse}`}
+              className="contents md:[&>*]:py-2 md:[&>*]:border-b md:[&>*]:border-stone-100 scroll-mt-6 target:[&_sup]:text-amber-600"
             >
               <div className="text-lg leading-relaxed">
                 <sup className="text-xs text-stone-400 font-sans mr-1 tabular-nums">
