@@ -25,7 +25,11 @@ export default async function ThemesPage() {
       </header>
       <ul className="space-y-5">
         {themes.map((t) => (
-          <li key={t.id} className="border-l-2 border-amber-200 pl-4">
+          <li
+            key={t.id}
+            id={t.id}
+            className="border-l-2 border-amber-200 pl-4 scroll-mt-6 target:border-amber-500"
+          >
             <h2 className="text-lg font-medium">{t.name}</h2>
             <p className="text-sm text-stone-600 mt-1">{t.description}</p>
             <p className="mt-2 text-xs text-stone-500 font-sans">

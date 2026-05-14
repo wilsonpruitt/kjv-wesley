@@ -128,7 +128,7 @@ export default async function SearchPage({
                             </em>
                           )}
                           {h.row.l && " — "}
-                          <HighlightedText text={h.snippet} />
+                          <HighlightedText text={h.snippet} linkify={false} />
                         </span>
                       </Link>
                     </li>
