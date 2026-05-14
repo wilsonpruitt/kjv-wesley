@@ -97,21 +97,34 @@ export default async function ChapterPage({
                     &mdash;
                   </span>
                 ) : (
-                  showNotes.map((n, i) => (
-                    <div key={i} className="mb-3 last:mb-0">
-                      <span className="text-xs text-stone-400 font-sans tabular-nums">
-                        v.{n.verse_start}
-                        {n.verse_end !== n.verse_start && `–${n.verse_end}`}
-                      </span>{" "}
-                      {n.lemma && (
-                        <em className="font-medium not-italic">{n.lemma}</em>
-                      )}
-                      {n.lemma && n.comment && (
-                        <span className="text-stone-500"> &mdash; </span>
-                      )}
-                      <span className="whitespace-pre-line">{n.comment}</span>
-                    </div>
-                  ))
+                  showNotes.map((n, i) => {
+                    const paras = n.comment.split(/\n{2,}/);
+                    const [first, ...rest] = paras;
+                    return (
+                      <div key={i} className="mb-3 last:mb-0">
+                        <p>
+                          <span className="text-xs text-stone-400 font-sans tabular-nums">
+                            v.{n.verse_start}
+                            {n.verse_end !== n.verse_start && `–${n.verse_end}`}
+                          </span>{" "}
+                          {n.lemma && (
+                            <em className="font-medium not-italic">{n.lemma}</em>
+                          )}
+                          {n.lemma && first && (
+                            <span className="text-stone-500"> &mdash; </span>
+                          )}
+                          {first}
+                        </p>
+                        {rest.length > 0 && (
+                          <div className="mt-1 space-y-1 pl-4 text-[0.95rem]">
+                            {rest.map((p, j) => (
+                              <p key={j}>{p}</p>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })
                 )}
               </aside>
             </div>
