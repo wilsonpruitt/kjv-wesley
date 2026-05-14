@@ -240,7 +240,7 @@ def looks_like_real_verse_leader(payload: str, n: Note) -> bool:
     return True
 
 
-def parse_file(path: Path) -> list[Book]:
+def parse_file(path: Path) -> tuple[list[Book], dict[str, str]]:
     raw = path.read_text(encoding="utf-8", errors="replace").splitlines(keepends=False)
     books: list[Book] = []
     current: Book | None = None
@@ -249,6 +249,12 @@ def parse_file(path: Path) -> list[Book]:
     intro_buf: list[str] = []
     max_verse_in_chapter = 0  # highest verse_start seen in current chapter
     in_sublist = False  # currently absorbing a sub-bullet list into prev note
+
+    # Top-level prefaces: text between (start of file | end of last NT book)
+    # and the next book header, opened by a bare "PREFACE" paragraph.
+    prefaces: dict[str, str] = {}
+    in_preface = False
+    preface_buf: list[str] = []
 
     for lineno, kind, payload in iter_paragraphs(raw):
         if kind == "book":
@@ -263,12 +269,39 @@ def parse_file(path: Path) -> list[Book]:
                 current = None
                 continue
             slug, name, test = info
+            # Flush a pending top-level preface to this book's testament.
+            if in_preface and preface_buf:
+                key = "nt" if test == "NT" else "ot"
+                prefaces[key] = "\n\n".join(preface_buf).strip()
+            in_preface = False
+            preface_buf = []
             current = Book(slug=slug, name=name, testament=test, header=header)
             current_chapter = None
             in_intro = True
             intro_buf = []
             max_verse_in_chapter = 0
             in_sublist = False
+            continue
+
+        # A bare "PREFACE" paragraph opens a top-level preface section. It
+        # appears (a) before any book (NT preface) and (b) after Revelation,
+        # before Genesis (OT preface). Close the active book and start
+        # collecting preface paragraphs until the next book header arrives.
+        if kind == "para" and payload.strip().upper() == "PREFACE":
+            if current is not None:
+                if intro_buf:
+                    current.intro = "\n\n".join(intro_buf).strip()
+                books.append(current)
+                current = None
+            in_preface = True
+            preface_buf = []
+            in_intro = False
+            intro_buf = []
+            continue
+
+        if in_preface:
+            if kind == "para":
+                preface_buf.append(payload)
             continue
 
         if current is None:
@@ -323,7 +356,7 @@ def parse_file(path: Path) -> list[Book]:
             current.intro = "\n\n".join(intro_buf).strip()
         books.append(current)
 
-    return books
+    return books, prefaces
 
 
 def write_output(books: list[Book]) -> None:
@@ -363,8 +396,13 @@ def main() -> int:
     if not SRC.exists():
         print(f"missing source: {SRC}", file=sys.stderr)
         return 1
-    books = parse_file(SRC)
+    books, prefaces = parse_file(SRC)
     manifest = write_output(books)
+    (OUT_DIR / "_prefaces.json").write_text(
+        json.dumps(prefaces, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    for k, v in prefaces.items():
+        print(f"preface {k}: {len(v)} chars, {v.count(chr(10) + chr(10)) + 1} paragraphs")
     print(f"parsed {len(books)} books")
     for m in manifest:
         print(f"  {m['slug']:20s}  {m['note_count']:5d} notes  {m['chapter_count']:3d} ch (max ch {m['max_chapter']})")

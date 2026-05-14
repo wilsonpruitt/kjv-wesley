@@ -87,6 +87,15 @@ export function indexNotesByVerse(
   return out;
 }
 
+export type Prefaces = { nt?: string; ot?: string };
+let prefacesCache: Prefaces | null = null;
+export async function loadPrefaces(): Promise<Prefaces> {
+  if (!prefacesCache) {
+    prefacesCache = await readJson<Prefaces>("notes/_prefaces.json");
+  }
+  return prefacesCache;
+}
+
 export const FREE_BOOKS = new Set([
   "matthew", "mark", "luke", "john",
 ]);
