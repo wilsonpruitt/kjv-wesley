@@ -58,6 +58,14 @@ export default async function Home() {
             >
               History of Methodism, Episode 11
             </a>
+            . Recurring Wesleyan concerns are{" "}
+            <mark className="bg-amber-100/70 rounded-sm px-0.5">
+              highlighted
+            </mark>{" "}
+            in the notes &mdash; see the{" "}
+            <Link className="underline" href="/themes">
+              themes index
+            </Link>
             .
           </p>
         </div>

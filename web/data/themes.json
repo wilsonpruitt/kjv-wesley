@@ -1,0 +1,316 @@
+[
+  {
+    "id": "prevenient-grace",
+    "name": "Prevenient Grace",
+    "description": "God's grace that precedes and enables the first stirrings toward faith; universal grace given to all humanity",
+    "weight": 1.0,
+    "keywords": [
+      "prevenient",
+      "preventing grace",
+      "grace that goes before",
+      "natural conscience",
+      "light given to every man"
+    ]
+  },
+  {
+    "id": "justifying-grace",
+    "name": "Justifying Grace",
+    "description": "Pardon of sins and acceptance by God through faith; the moment of conversion",
+    "weight": 1.0,
+    "keywords": [
+      "justification",
+      "pardon",
+      "forgiveness",
+      "faith alone",
+      "imputed righteousness",
+      "new birth"
+    ]
+  },
+  {
+    "id": "sanctifying-grace",
+    "name": "Sanctifying Grace",
+    "description": "The ongoing work of grace that transforms believers toward holiness",
+    "weight": 1.0,
+    "keywords": [
+      "sanctification",
+      "holiness",
+      "growth in grace",
+      "transformed",
+      "renewed",
+      "holy living"
+    ]
+  },
+  {
+    "id": "christian-perfection",
+    "name": "Christian Perfection",
+    "description": "Being made perfect in love in this life; entire sanctification",
+    "weight": 1.0,
+    "keywords": [
+      "perfect love",
+      "christian perfection",
+      "entire sanctification",
+      "pure love",
+      "perfected",
+      "sin no more dominion"
+    ]
+  },
+  {
+    "id": "free-will",
+    "name": "Free Will",
+    "description": "Human agency in responding to or rejecting God's grace; rejection of unconditional predestination",
+    "weight": 0.9,
+    "keywords": [
+      "free will",
+      "liberty",
+      "choice",
+      "resist grace",
+      "predestination rejected",
+      "synergism"
+    ]
+  },
+  {
+    "id": "means-of-grace",
+    "name": "Means of Grace",
+    "description": "Instituted and prudential means through which grace is conveyed",
+    "weight": 0.9,
+    "keywords": [
+      "means of grace",
+      "ordinances",
+      "prayer",
+      "scripture",
+      "lord's supper",
+      "fasting",
+      "christian conference",
+      "class meeting"
+    ]
+  },
+  {
+    "id": "social-holiness",
+    "name": "Social Holiness",
+    "description": "No holiness but social holiness; faith lived in community and expressed in society",
+    "weight": 0.9,
+    "keywords": [
+      "social holiness",
+      "no solitary religion",
+      "no solitary christian",
+      "love one another",
+      "one heart and one soul",
+      "christian fellowship",
+      "christian community"
+    ]
+  },
+  {
+    "id": "works-mercy",
+    "name": "Works of Mercy",
+    "description": "Acts of compassion and justice toward those in need",
+    "weight": 0.8,
+    "keywords": [
+      "works of mercy",
+      "feed the hungry",
+      "clothe the naked",
+      "visit the sick",
+      "visit the prisoner",
+      "relieve the poor",
+      "acts of mercy",
+      "doing good to all"
+    ]
+  },
+  {
+    "id": "works-piety",
+    "name": "Works of Piety",
+    "description": "Personal devotional practices that nurture the soul",
+    "weight": 0.8,
+    "keywords": [
+      "works of piety",
+      "searching the scriptures",
+      "private prayer",
+      "public prayer",
+      "fasting",
+      "devotion",
+      "means he hath ordained"
+    ]
+  },
+  {
+    "id": "assurance",
+    "name": "Assurance",
+    "description": "The inner witness of the Spirit confirming one's salvation",
+    "weight": 0.9,
+    "keywords": [
+      "assurance",
+      "witness of the spirit",
+      "know that we are children",
+      "inward witness",
+      "testimony"
+    ]
+  },
+  {
+    "id": "scriptural-authority",
+    "name": "Scriptural Authority",
+    "description": "Scripture as the primary authority for faith and practice",
+    "weight": 0.8,
+    "keywords": [
+      "scripture",
+      "word of god",
+      "bible",
+      "sola scriptura",
+      "written word",
+      "revelation"
+    ]
+  },
+  {
+    "id": "catholic-spirit",
+    "name": "Catholic Spirit",
+    "description": "Unity in essentials while allowing diversity in opinions and modes of worship",
+    "weight": 0.7,
+    "keywords": [
+      "catholic spirit",
+      "unity",
+      "opinions",
+      "modes of worship",
+      "essentials",
+      "love united"
+    ]
+  },
+  {
+    "id": "experience",
+    "name": "Religious Experience",
+    "description": "The felt experience of God's grace; heart religion vs. mere formalism",
+    "weight": 0.8,
+    "keywords": [
+      "experience of god",
+      "heart strangely warmed",
+      "religion of the heart",
+      "experimental religion",
+      "felt his presence",
+      "inward religion",
+      "heart religion"
+    ]
+  },
+  {
+    "id": "universal-redemption",
+    "name": "Universal Redemption",
+    "description": "Christ died for all people, not just the elect",
+    "weight": 0.9,
+    "keywords": [
+      "universal redemption",
+      "died for all",
+      "for all mankind",
+      "whosoever",
+      "unlimited atonement",
+      "saviour of all",
+      "sins of the whole world",
+      "tasted death for every man"
+    ]
+  },
+  {
+    "id": "reign-of-god",
+    "name": "Reign of God",
+    "description": "The kingdom of God present and coming; God's rule over all creation and in human hearts",
+    "weight": 0.9,
+    "keywords": [
+      "kingdom of god",
+      "kingdom of heaven",
+      "thy kingdom come",
+      "reign of god",
+      "god reigneth",
+      "dominion of god",
+      "kingdom within"
+    ]
+  },
+  {
+    "id": "primitive-christianity",
+    "name": "Primitive Christianity",
+    "description": "Return to the faith and practice of the early church; apostolic Christianity",
+    "weight": 0.8,
+    "keywords": [
+      "primitive",
+      "early church",
+      "apostolic",
+      "first christians",
+      "ancient",
+      "original christianity",
+      "acts of the apostles"
+    ]
+  },
+  {
+    "id": "communion",
+    "name": "Communion",
+    "description": "The Lord's Supper as a means of grace; eucharistic theology and practice",
+    "weight": 0.9,
+    "keywords": [
+      "communion",
+      "lord's supper",
+      "eucharist",
+      "sacrament",
+      "bread and wine",
+      "body and blood",
+      "table of the lord"
+    ]
+  },
+  {
+    "id": "repentance",
+    "name": "Repentance",
+    "description": "Turning from sin toward God; conviction of sin and amendment of life",
+    "weight": 0.9,
+    "keywords": [
+      "repentance",
+      "repent",
+      "conviction",
+      "turn",
+      "amendment",
+      "sorrow for sin",
+      "contrition",
+      "flee from the wrath"
+    ]
+  },
+  {
+    "id": "trinity",
+    "name": "Trinity",
+    "description": "The triune nature of God as Father, Son, and Holy Spirit",
+    "weight": 0.8,
+    "keywords": [
+      "trinity",
+      "triune",
+      "father son and holy ghost",
+      "three persons",
+      "godhead",
+      "three-one"
+    ]
+  },
+  {
+    "id": "christology",
+    "name": "Christology",
+    "description": "The person and work of Jesus Christ; incarnation, atonement, resurrection",
+    "weight": 1.0,
+    "keywords": [
+      "son of god",
+      "saviour of the world",
+      "redeemer",
+      "atonement",
+      "incarnation",
+      "resurrection",
+      "lamb of god",
+      "mediator",
+      "blood of christ",
+      "merits of christ",
+      "death of christ",
+      "propitiation"
+    ]
+  },
+  {
+    "id": "pneumatology",
+    "name": "Pneumatology",
+    "description": "The person and work of the Holy Spirit; gifts, fruits, and indwelling of the Spirit",
+    "weight": 0.9,
+    "keywords": [
+      "holy ghost",
+      "holy spirit",
+      "spirit of god",
+      "spirit of christ",
+      "fruits of the spirit",
+      "gifts of the spirit",
+      "indwelling",
+      "pentecost"
+    ]
+  }
+]

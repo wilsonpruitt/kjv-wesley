@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadPrefaces } from "@/lib/data";
+import { HighlightedText } from "@/components/highlighted-text";
 
 const TITLES: Record<string, { full: string; short: string }> = {
   nt: { full: "Wesley's Preface to the New Testament", short: "New Testament" },
@@ -44,7 +45,9 @@ export default async function PrefacePage({
       </header>
       <article className="prose-wesley space-y-4 text-stone-800 leading-relaxed">
         {paragraphs.map((p, i) => (
-          <p key={i}>{p}</p>
+          <p key={i}>
+            <HighlightedText text={p} />
+          </p>
         ))}
       </article>
     </div>

@@ -6,6 +6,7 @@ import {
   loadWesleyBook,
   isFree,
 } from "@/lib/data";
+import { HighlightedText } from "@/components/highlighted-text";
 
 export async function generateStaticParams() {
   const manifest = await notesManifest();
@@ -59,7 +60,9 @@ export default async function BookPage({
           </h2>
           <div className="text-stone-700 italic space-y-1.5 leading-snug max-w-3xl">
             {wesley.intro.split(/\n{2,}/).map((para, i) => (
-              <p key={i}>{para}</p>
+              <p key={i}>
+                <HighlightedText text={para} />
+              </p>
             ))}
           </div>
         </section>

@@ -7,6 +7,7 @@ import {
   loadWesleyBook,
   indexNotesByVerse,
 } from "@/lib/data";
+import { HighlightedText } from "@/components/highlighted-text";
 
 export async function generateStaticParams() {
   const manifest = await kjvManifest();
@@ -113,12 +114,14 @@ export default async function ChapterPage({
                           {n.lemma && first && (
                             <span className="text-stone-500"> &mdash; </span>
                           )}
-                          {first}
+                          {first && <HighlightedText text={first} />}
                         </p>
                         {rest.length > 0 && (
                           <div className="mt-1 space-y-1 pl-4 text-[0.95rem]">
                             {rest.map((p, j) => (
-                              <p key={j}>{p}</p>
+                              <p key={j}>
+                                <HighlightedText text={p} />
+                              </p>
                             ))}
                           </div>
                         )}
