@@ -53,12 +53,14 @@ export default async function BookPage({
       </header>
 
       {wesley.intro && (
-        <section className="mb-10 prose prose-stone max-w-none">
-          <h2 className="text-lg uppercase tracking-wide text-stone-500 font-sans mb-2">
+        <section className="mb-10">
+          <h2 className="text-lg uppercase tracking-wide text-stone-500 font-sans mb-3">
             Wesley&rsquo;s preface
           </h2>
-          <div className="text-stone-700 leading-relaxed whitespace-pre-line italic">
-            {wesley.intro}
+          <div className="text-stone-700 italic space-y-1.5 leading-snug max-w-3xl">
+            {wesley.intro.split(/\n{2,}/).map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
           </div>
         </section>
       )}
