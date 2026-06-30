@@ -48,6 +48,12 @@ export default async function RootLayout({
                 </a>
               )}
               <a
+                href="https://historyofmethodism.com"
+                className="text-stone-500 hover:text-stone-900"
+              >
+                History of Methodism
+              </a>
+              <a
                 href="https://wrootpress.com"
                 className="text-stone-500 hover:text-stone-900"
               >
