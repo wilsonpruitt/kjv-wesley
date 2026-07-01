@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { notesManifest, isFree } from "@/lib/data";
+import { notesManifest } from "@/lib/data";
 
 export default async function Home() {
   const manifest = await notesManifest();
@@ -20,8 +20,12 @@ export default async function Home() {
           Bible, brought together for the first time as a side-by-side reader.
         </p>
         <p className="mt-3 text-sm text-stone-500">
-          The four Gospels are free to read. The rest of the Bible is available
-          to <a className="underline" href="https://patreon.com/historyofmethodism">Patreon supporters</a>.
+          Free to read, cover to cover. Part of{" "}
+          <a className="underline" href="https://wrootpress.com">Wroot Press</a>
+          {" "}— see also{" "}
+          <a className="underline" href="https://lectern.wrootpress.com">Lectern</a>,
+          the preacher&rsquo;s workbench that draws on these notes for the
+          Sunday lectionary.
         </p>
         <form action="/search" method="get" className="mt-6 flex gap-2 max-w-xl">
           <input
@@ -112,34 +116,21 @@ function BookList({
         <span className="text-sm uppercase tracking-wide text-stone-500 font-sans">
           Wesley&rsquo;s preface
         </span>
-        <span className="ml-2 text-xs uppercase tracking-wide text-emerald-700 font-sans">
-          free
-        </span>
       </Link>
       <ul className="divide-y divide-stone-100">
-        {books.map((b) => {
-          const free = isFree(b.slug);
-          return (
-            <li key={b.slug}>
-              <Link
-                href={`/${b.slug}`}
-                className="flex items-baseline justify-between py-2 hover:bg-stone-100 px-2 -mx-2 rounded"
-              >
-                <span className="text-lg">
-                  {b.name}
-                  {free && (
-                    <span className="ml-2 text-xs uppercase tracking-wide text-emerald-700 font-sans">
-                      free
-                    </span>
-                  )}
-                </span>
-                <span className="text-sm text-stone-400 tabular-nums">
-                  {b.note_count} notes
-                </span>
-              </Link>
-            </li>
-          );
-        })}
+        {books.map((b) => (
+          <li key={b.slug}>
+            <Link
+              href={`/${b.slug}`}
+              className="flex items-baseline justify-between py-2 hover:bg-stone-100 px-2 -mx-2 rounded"
+            >
+              <span className="text-lg">{b.name}</span>
+              <span className="text-sm text-stone-400 tabular-nums">
+                {b.note_count} notes
+              </span>
+            </Link>
+          </li>
+        ))}
       </ul>
     </section>
   );

@@ -96,10 +96,3 @@ export async function loadPrefaces(): Promise<Prefaces> {
   return prefacesCache;
 }
 
-export const FREE_BOOKS = new Set([
-  "matthew", "mark", "luke", "john",
-]);
-
-export function isFree(slug: string): boolean {
-  return FREE_BOOKS.has(slug);
-}

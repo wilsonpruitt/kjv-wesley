@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { parseCitation, formatCitation, Citation } from "@/lib/citation";
 import { textSearch, passageVerses, passageNotes } from "@/lib/search";
-import { isFree } from "@/lib/data";
 import { HighlightedText } from "@/components/highlighted-text";
 
 export const dynamic = "force-dynamic";
@@ -103,37 +102,29 @@ export default async function SearchPage({
                 </span>
               </h3>
               <ul className="space-y-2">
-                {results.wesley.map((h, i) => {
-                  const gated = !isFree(h.row.b);
-                  return (
-                    <li key={i}>
-                      <Link
-                        href={`/${h.row.b}/${h.row.c}#v${h.row.v}`}
-                        className="block py-1.5 px-3 -mx-3 rounded hover:bg-stone-100"
-                      >
-                        <span className="text-sm text-stone-500 font-sans">
-                          {NAME_LOOKUP[h.row.b] ?? h.row.b} {h.row.c}:
-                          {h.row.v}
-                          {h.row.ve !== h.row.v && `–${h.row.ve}`}
-                          {gated && (
-                            <span className="ml-2 text-xs text-amber-700">
-                              &#x1F512; Patreon
-                            </span>
-                          )}
-                        </span>
-                        <span className="block text-stone-800">
-                          {h.row.l && (
-                            <em className="not-italic font-medium">
-                              {h.row.l}
-                            </em>
-                          )}
-                          {h.row.l && " — "}
-                          <HighlightedText text={h.snippet} linkify={false} />
-                        </span>
-                      </Link>
-                    </li>
-                  );
-                })}
+                {results.wesley.map((h, i) => (
+                  <li key={i}>
+                    <Link
+                      href={`/${h.row.b}/${h.row.c}#v${h.row.v}`}
+                      className="block py-1.5 px-3 -mx-3 rounded hover:bg-stone-100"
+                    >
+                      <span className="text-sm text-stone-500 font-sans">
+                        {NAME_LOOKUP[h.row.b] ?? h.row.b} {h.row.c}:
+                        {h.row.v}
+                        {h.row.ve !== h.row.v && `–${h.row.ve}`}
+                      </span>
+                      <span className="block text-stone-800">
+                        {h.row.l && (
+                          <em className="not-italic font-medium">
+                            {h.row.l}
+                          </em>
+                        )}
+                        {h.row.l && " — "}
+                        <HighlightedText text={h.snippet} linkify={false} />
+                      </span>
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
           )}
@@ -190,7 +181,6 @@ async function PassageCard({ citation }: { citation: Citation }) {
     citation.verseStart,
     citation.verseEnd,
   );
-  const free = isFree(citation.slug);
   const chapterHref = `/${citation.slug}/${citation.chapter}${
     citation.verseStart ? `#v${citation.verseStart}` : ""
   }`;
@@ -224,7 +214,7 @@ async function PassageCard({ citation }: { citation: Citation }) {
             <p className="text-sm text-stone-500 italic">
               Wesley does not comment on these verses.
             </p>
-          ) : free ? (
+          ) : (
             <ul className="space-y-3">
               {notes.map((n, i) => (
                 <li key={i} className="text-stone-800 leading-relaxed">
@@ -240,22 +230,6 @@ async function PassageCard({ citation }: { citation: Citation }) {
                 </li>
               ))}
             </ul>
-          ) : (
-            <p className="text-sm text-stone-700">
-              <span className="mr-1">&#x1F512;</span>
-              {notes.length} note{notes.length === 1 ? "" : "s"} available with a{" "}
-              <a
-                className="underline"
-                href="https://patreon.com/historyofmethodism"
-              >
-                Patreon membership
-              </a>
-              .{" "}
-              <Link href={chapterHref} className="underline">
-                Open chapter
-              </Link>
-              .
-            </p>
           )}
         </div>
       </div>

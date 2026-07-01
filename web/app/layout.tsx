@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
 import { EB_Garamond } from "next/font/google";
 import Link from "next/link";
-import { cookies } from "next/headers";
-import { COOKIE_NAME, decodeSession } from "@/lib/session";
 import "./globals.css";
 
 const serif = EB_Garamond({
@@ -21,8 +19,6 @@ export const metadata: Metadata = {
 export default async function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
-  const c = await cookies();
-  const session = await decodeSession(c.get(COOKIE_NAME)?.value);
   return (
     <html lang="en" className={`${serif.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col bg-stone-50 text-stone-900 font-serif">
@@ -33,20 +29,12 @@ export default async function RootLayout({
               <span className="text-stone-500"> with Wesley&rsquo;s Notes</span>
             </Link>
             <div className="flex items-baseline gap-4 text-sm">
-              {session ? (
-                <>
-                  <span className="text-stone-500">
-                    {session.admin ? "Admin" : session.name}
-                  </span>
-                  <a href="/api/auth/logout" className="text-stone-500 hover:text-stone-900">
-                    Sign out
-                  </a>
-                </>
-              ) : (
-                <a href="/api/auth/login" className="text-stone-500 hover:text-stone-900">
-                  Sign in
-                </a>
-              )}
+              <a
+                href="https://lectern.wrootpress.com"
+                className="text-stone-500 hover:text-stone-900"
+              >
+                Lectern
+              </a>
               <a
                 href="https://historyofmethodism.com"
                 className="text-stone-500 hover:text-stone-900"

@@ -1,11 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import {
-  notesManifest,
-  loadKjvBook,
-  loadWesleyBook,
-  isFree,
-} from "@/lib/data";
+import { notesManifest, loadKjvBook, loadWesleyBook } from "@/lib/data";
 import { HighlightedText } from "@/components/highlighted-text";
 
 export async function generateStaticParams() {
@@ -45,11 +40,6 @@ export default async function BookPage({
         <p className="text-stone-500 mt-1">
           {kjv.chapters.length} chapter{kjv.chapters.length === 1 ? "" : "s"} &middot;{" "}
           {meta.note_count} Wesley note{meta.note_count === 1 ? "" : "s"}
-          {isFree(book) && (
-            <span className="ml-3 text-xs uppercase tracking-wide text-emerald-700 font-sans">
-              free to read
-            </span>
-          )}
         </p>
       </header>
 
