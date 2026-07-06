@@ -21,6 +21,9 @@ export default async function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${serif.variable} h-full antialiased`}>
+      <head>
+        <script defer src="/_vercel/insights/script.js"></script>
+      </head>
       <body className="min-h-full flex flex-col bg-stone-50 text-stone-900 font-serif">
         <header className="border-b border-stone-200 bg-white">
           <div className="mx-auto max-w-6xl px-6 py-4 flex items-baseline justify-between gap-4">
